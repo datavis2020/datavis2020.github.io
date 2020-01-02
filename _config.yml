@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: "DataVis 2020"
+relative_links:
+  enabled: true
+  collections: true
