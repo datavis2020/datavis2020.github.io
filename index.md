@@ -1,6 +1,6 @@
 # Data Visualisation 2019/20
 
-<i color="#700">This is the only website where to find learning material about the course. The website will be updated regularly thoughout the course with the latest slides and tutorial information. [Learn](https://www.learn.ed.ac.uk) will be used for assignments only! Bookmark this page.</i>
+<i style="color:#700">This is the only website where to find learning material about the course. The website will be updated regularly thoughout the course with the latest slides and tutorial information. [Learn](https://www.learn.ed.ac.uk) will be used for assignments only! Bookmark this page.</i>
 
 ## Course content and learning outcomes
 The course aims to provide a general understanding of how to use data visualizations in your work and how to be critical about it. The course has three specific learning outcomes which you assignments will be marked against.  
