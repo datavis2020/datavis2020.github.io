@@ -57,33 +57,29 @@ __Due date:__ 4. April 2020
 
 __Expected time investment:__ 15h
 
-__Descripion:__ Students work in groups of 2-3 students to analyze, design, and implement a visualization prototype. This can include interactive web visualizations, data physicalizations, data comics, infographics, etc. 
+__Description:__ Students work in groups of 2-3 students to analyze, design, and implement a visualization prototype. This can include interactive web visualizations, data physicalizations, data comics, infographics, etc. 
 
-1. Challenge description: Describe a challenge around the data. A challenge includes: 
+__1. Challenge description:__ Describe a challenge around the data. A challenge includes: 
 - Data: What is your data and where is it coming from?
 - Motivation: What do you intend to see/show with the visualization?
 - Audience: who is the indented audience for this visualization and how are thy characterized? 
 - Context: what is th context that audience is using your visualization? 
 
-2. Visualization exploration: explore visualization designs for your data 
+__2. Visualization exploration:__ explore visualization designs for your data 
 - explore at least __three different visualization designs__ with at least __two iteration__ for your data (e.g., one design per student in the group)
 - explain what does and work, what does not work, and how you went on. 
 
-3. Final design: present a final design. This can be on of the following four formats: 
+__3. Final design:__ present a final design. This can be on of the following four formats: 
 * Infographic
-..* at least 3 different visualizations, and 
-..* around 500 words text.)
+...* at least 3 different visualizations, 
+...* around 200 words.
+...* anything between A3 and A0 (poster) format (landscape or portrait) or 
 * [Data comic](http://datacomics.net)
-..* at least 2 A4 pages 
+...* at least 4 A4 pages 
 * Interactive visualization 
-..* Either one sophisticated interactive visualization, or 
-..* a set of interactive standart visualizations, i.e., multple-views.
+...* __Either__ a single  bespoke and creative interactive visualization, __or__ 
+...* a set of interactive standart visualizations, i.e., multple-views.
 
-
-Part II: Create an explanatory piece to communicate context, insights, and take-home messages from in this data, using visualizations (75%). This can be
-- an infographic (minimum 2 visualizations, around 200 words, 1 A3 page)
-- a report (minimum 2 visualizations, around 200 words)
-- a data comic (minimum 2 visualizations, minimum 5 panels, 1 A4 page)
 	
 __Marking scheme:__
 
