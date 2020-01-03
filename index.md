@@ -42,4 +42,3 @@ There are 2 assignments, both need to be handed in. There is no written exam. St
 | Jan, 16 | 10 | _guest lecture_ | --- | --- |
 | Jan, 16 | 11 | _guest lecture_ | --- | --- |
 | Jan, 16 | 12 | __Final Presentations__ | --- | Assignment-1 |
-
