@@ -44,7 +44,7 @@ A detailed description and slides for each lecture is found [here](lectures.html
 | Jan, 16 | 11 | __Final Presentations__ | --- | Assignment 2 |
 
 
-## Reading list
+## Recommended Literature
 
 - Segel, Heer, Narrative Visualization, 2010, https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf
 - Bertin, Semiology of Graphics, 1987
