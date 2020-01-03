@@ -24,7 +24,14 @@ Analyze problems with a set of visualizations and propose improvements. 
 3. For each visaulization, propose (sketch) __one__ or __two__ visualizations that solve the identified faults. 
 4. For each solution you find, argue with a more general visualization guideline.
 
-__Marking schme:__
+__Handing in:__ 
+* Submit a single PDF with as many pages as you like
+* Include any external references (web, papers, slides, etc) in your submission
+* You can annotate faults in the visualizations for #2.
+* For the sketch in #3, you can use _any_ tool and medium you like: pen and paper, digital pens, illustrator, etc.
+
+
+__Marking scheme:__
 
 | Task | Max-points |  
 | --- | --- | 
@@ -61,4 +68,7 @@ Part II: Create an explanatory piece to communicate context, insights, and take-
 - a report (minimum 2 visualizations, around 200 words)
 - a data comic (minimum 2 visualizations, minimum 5 panels, 1 A4 page)
 	
+__Marking scheme:__
+
+
 	
