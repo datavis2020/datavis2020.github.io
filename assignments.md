@@ -70,5 +70,12 @@ Part II: Create an explanatory piece to communicate context, insights, and take-
 	
 __Marking scheme:__
 
+| Task | Max-points |  
+| --- | --- | 
+| Challenge description	| 10 |
+| Visualization exploration | 30 |
+| Final visualization design | 50 |
+| Presentation	| 10 |
+
 
 	
