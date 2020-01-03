@@ -26,19 +26,35 @@ This course has XX lectures, 5 tutorials and 2 assignments. Any lecture is 2h, i
 
 There are 2 assignments, both need to be handed in. There is no written exam. Students will work individually for assignment Assignment 1 and in groups of 3 for Assignment 2.
 
+A detailed description and slides for each lecture is found [here](lectures.html)
 
 | Date | Session | Lecture | Tutorial | Assignments |
 | --- | --- | --- | --- | --- |
-| Jan, 16 | 1 | Foundations I: Introduction to Data Visualization | --- | --- |
-| Jan, 16 | 2 | Foundations II: Visualization design | --- | --- |
-| Jan, 16 | 3 | Techniques I: Visualizing Statistical and Multivariate Data | --- | --- |
-| Jan, 16 | 4 | Techniques II: Visualizing Trees and Networks | --- | --- |
-| Jan, 16 | 5 | Techniques III: Visualizing Geographic, temporal and geo-temporal data | --- | --- |
+| Jan, 16 | 1 | Foundations I: Foundations I: Introduction to Data Vis | --- | --- |
+| Jan, 16 | 2 | Foundations II: Visualization design | T1: Critique+Redesign | --- |
+| Jan, 16 | 3 | Foundations III: Tools for data visualizations | --- | --- |
+| Jan, 16 | 4 | Techniques I: Visualizing Statistical and Multivariate Data | --- | --- |
+| Jan, 16 | 5 | Techniques II: Trees, Networks, and Sets | T2: Challenge+Design | Assignment 1 |
 | Jan, 16 | - | _Week of creative learning_ | --- | --- |
-| Jan, 16 | 6 | Advanced I: Interaction for visualization | --- | [Assignment 1](#Assignment_1) |
-| Jan, 16 | 7 | Advanced II: Storytelling and Communication | --- | --- |
-| Jan, 16 | 8 | Advanced III: Evaluating visualization techniques | --- | --- |
-| Jan, 16 | 9 | Tools and Programming Environments | --- | --- |
-| Jan, 16 | 10 | _guest lecture_ | --- | --- |
-| Jan, 16 | 11 | _guest lecture_ | --- | --- |
-| Jan, 16 | 12 | __Final Presentations__ | --- | Assignment-1 |
+| Jan, 16 | 6 | Techniques III: Geographic and Temporal | --- | --- |
+| Jan, 16 | 7 | Advanced I: Storytelling and Communication | T3: Storytelling | --- |
+| Jan, 16 | 8 | Advanced II: Evaluating visualization techniques | --- | --- |
+| Jan, 16 | 9 |  _guest lecture_  | --- | --- |
+| Jan, 16 | 10 | Topic Lecture | --- | --- |
+| Jan, 16 | 11 | __Final Presentations__ | --- | Assignment 2 |
+
+
+## Reading list
+
+- Segel, Heer, Narrative Visualization, 2010, https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf
+- Bertin, Semiology of Graphics, 1987
+- Nussbaumer: Storytelling with Data, 2017: http://www.storytellingwithdata.com
+- Tufte: Visual Evidence: Images and Quantities, Evidence and Narrative, 1997
+- Colin Ware: Information Visualization, 1999
+- Tamara Munzner: Visualization Analysis & Design, 2014
+- Scott Murray: Interactive Data Visualization for the Web An Introduction to designing with D3, 2013
+- Manual Lima: Visual Complexity Mapping Patterns of Information, 2011
+- Ben Shneiderman: The eyes have it: A task by data type taxonomy for information visualizations, 1996
+- Panday et al: How deceptive are deceptive visualizations: An empirical analysis of common distortion techniques, 2015
+- Von Landesberger et al: Visual analysis of large graphs: state of the art and future research challenges, 2011
+- Tamara Munzner: A nested model for visualization design and validation, 2009
