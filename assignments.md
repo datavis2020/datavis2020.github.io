@@ -71,14 +71,14 @@ __2. Visualization exploration:__ explore visualization designs for your data
 
 __3. Final design:__ present a final design. This can be on of the following four formats: 
 * Infographic
-...* at least 3 different visualizations, 
-...* around 200 words.
-...* anything between A3 and A0 (poster) format (landscape or portrait) or 
+⋅⋅* at least 3 different visualizations, 
+⋅⋅* around 200 words.
+⋅⋅* anything between A3 and A0 (poster) format (landscape or portrait) or 
 * [Data comic](http://datacomics.net)
-...* at least 4 A4 pages 
+⋅⋅* at least 4 A4 pages 
 * Interactive visualization 
-...* __Either__ a single  bespoke and creative interactive visualization, __or__ 
-...* a set of interactive standart visualizations, i.e., multple-views.
+⋅⋅* __Either__ a single  bespoke and creative interactive visualization, __or__ 
+⋅⋅* a set of interactive standart visualizations, i.e., multple-views.
 
 	
 __Marking scheme:__
