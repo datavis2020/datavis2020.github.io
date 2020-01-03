@@ -6,6 +6,8 @@ Up to 10% extran points can be obtained through activity in the [VisGuides Forum
 
 Assignments will be marked using the Unversity's [Common Marking Scheme 1](https://www.ed.ac.uk/timetabling-examinations/exams/regulations/common-marking-scheme).
 
+Keep any descriptions as brief as possible. Use bullet lists wherever possible. 
+
 ## Assignment 1
 
 __Scope:__ Individually (one submission per student, through [Learn](https://www.learn.ed.ac.uk))
@@ -40,6 +42,7 @@ __Marking scheme:__
 | Fault problem explained | 24 |
 | Faults fixed | 24 |
 | Fixes explained | 24 |
+| _Tool critique_ | _??_ |
 | __Total:__ | __100__ |
 
 
@@ -56,12 +59,26 @@ __Expected time investment:__ 15h
 
 __Descripion:__ Students work in groups of 2-3 students to analyze, design, and implement a visualization prototype. This can include interactive web visualizations, data physicalizations, data comics, infographics, etc. 
 
-Part I: Describe your design rationale for the visualization (25%, up to 300 words):
-- What is your data and where is it coming from?
-- What do you intent to show?
-- Why have you chosen this visualization?
-- Which alternative designs did you consider?
-- Which tool did you use to create it and which drawbacks did you encounter?
+1. Challenge description: Describe a challenge around the data. A challenge includes: 
+- Data: What is your data and where is it coming from?
+- Motivation: What do you intend to see/show with the visualization?
+- Audience: who is the indented audience for this visualization and how are thy characterized? 
+- Context: what is th context that audience is using your visualization? 
+
+2. Visualization exploration: explore visualization designs for your data 
+- explore at least __three different visualization designs__ with at least __two iteration__ for your data (e.g., one design per student in the group)
+- explain what does and work, what does not work, and how you went on. 
+
+3. Final design: present a final design. This can be on of the following four formats: 
+* Infographic
+..* at least 3 different visualizations, and 
+..* around 500 words text.)
+* [Data comic](http://datacomics.net)
+..* at least 2 A4 pages 
+* Interactive visualization 
+..* Either one sophisticated interactive visualization, or 
+..* a set of interactive standart visualizations, i.e., multple-views.
+
 
 Part II: Create an explanatory piece to communicate context, insights, and take-home messages from in this data, using visualizations (75%). This can be
 - an infographic (minimum 2 visualizations, around 200 words, 1 A3 page)
@@ -75,7 +92,8 @@ __Marking scheme:__
 | Challenge description	| 10 |
 | Visualization exploration | 30 |
 | Final visualization design | 50 |
-| Presentation	| 10 |
-
+| Presentation quality of final visualization design | 10 |
+| _Tool critique_ | _??_ |
+| __Total:__ | __100__ |
 
 	
