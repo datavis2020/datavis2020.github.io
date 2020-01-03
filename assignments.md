@@ -33,6 +33,7 @@ __Marking schme:__
 | Fault problem explained | 24 |
 | Faults fixed | 24 |
 | Fixes explained | 24 |
+| __Total:__ | 100 |
 
 
 
