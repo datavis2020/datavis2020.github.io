@@ -4,7 +4,7 @@ The course requires handing in two assignments, each counting 50% towards the fi
 
 Up to 10% extran points can be obtained through activity in the [VisGuides Forum](http://visguides.org) as discussed in the lecture 2.
 
-Assignments will be marked using the Unversity's [Common Marking Scheme 1](https://www.ed.ac.uk/timetabling-examinations/exams/regulations/common-marking-scheme)
+Assignments will be marked using the Unversity's [Common Marking Scheme 1](https://www.ed.ac.uk/timetabling-examinations/exams/regulations/common-marking-scheme).
 
 ## Assignment 1
 
@@ -25,13 +25,14 @@ Analyze problems with a set of visualizations and propose improvements. 
 4. For each solution you find, argue with a more general visualization guideline.
 
 __Marking schme:__
+
 | Task | Max-points |  
 | --- | --- | 
 | Visualizations found | 4 |
-| Faults identified    | 24 |
+| Faults identified | 24 |
 | Fault problem explained | 24 |
 | Faults fixed | 24 |
-| Fixes explained | 24 | 
+| Fixes explained | 24 |
 
 
 
