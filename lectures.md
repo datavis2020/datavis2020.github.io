@@ -1,6 +1,11 @@
 # Lectures
 
-Lectures are grouped into three sets: __Foundations__ (I-III), __Techniques__ (I-III), and __Advanced__ (I-II), as well as 
+Lectures are grouped into three parts: 
+* __Foundations__ (I-III), 
+* __Techniques__ (I-III), 
+* __Advanced__ (I-II), as well as
+* __Guest and open lecture__.
+
 
 ## 1. Foundations I: Introduction to Data Vis
 This lecture introduces the basics concepts of data visualizaion: Why are are using data visualization?, why we are not using data visualiztion?, Why does visualization work?, topics such as _perception_ and _color_ and concepts such as _exploratory data analysis_, _data-driven storytelling_, _visual variables_, _visual mappings_, _visualization pipeline_, _visualization techniques_, _visual representation_, and _visualization literacy_.
