@@ -33,14 +33,14 @@ A detailed description and slides for each lecture is found [here](lectures.html
 | Jan, 13 | 1 | Foundations I: Introduction to Data Vis | --- | --- |
 | Jan, 20 | 2 | Foundations II: Visualization design | T1: Critique+Redesign | --- |
 | Jan, 27 | 3 | Foundations III: Tools for data visualizations | --- | --- |
-| Feb, 03 | 4 | Techniques I: Visualizing Statistical and Multivariate Data | --- | --- |
-| Feb, 10 | 5 | Techniques II: Trees, Networks, and Sets | T2: Challenge+Design | Assignment 1 |
+| Feb, 03 | 4 | Techniques I: Visualizing Statistical and Multivariate Data | T2: Challenge+Design | --- |
+| Feb, 10 | 5 | Techniques II: Trees, Networks, and Sets | --- | Assignment 1 |
 | Feb, 17 | - | _Week of creative learning_ | --- | --- |
-| Feb, 24 | 6 | Techniques III: Geographic and Temporal | --- | --- |
-| Mar, 02 | 7 | Advanced I: Storytelling and Communication | T3: Storytelling | --- |
-| Mar, 09 | 8 | Advanced II: Evaluating visualization techniques | --- | --- |
+| Feb, 24 | 6 | Techniques III: Geographic and Temporal | T3: Storytelling | --- |
+| Mar, 02 | 7 | Advanced I: Storytelling and Communication |  | --- |
+| Mar, 09 | 8 | Advanced II: Evaluating visualization techniques | T4: Atelier | --- |
 | Mar, 16 | 9 |  _guest lecture_  | --- | --- |
-| Mar, 23 | 10 | Topic Lecture | --- | --- |
+| Mar, 23 | 10 | Topic Lecture | T5: Atelier | --- |
 | Mar, 30 | 11 | __Final Presentations__ | --- | Assignment 2 |
 
 
