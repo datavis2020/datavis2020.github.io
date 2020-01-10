@@ -30,7 +30,7 @@ A detailed description and slides for each lecture is found [here](lectures.html
 
 | Date | Session | Lecture | Tutorial | Assignments |
 | --- | --- | --- | --- | --- |
-| Jan, 13 | 1 | Foundations I: Foundations I: Introduction to Data Vis | --- | --- |
+| Jan, 13 | 1 | Foundations I: Introduction to Data Vis | --- | --- |
 | Jan, 20 | 2 | Foundations II: Visualization design | T1: Critique+Redesign | --- |
 | Jan, 27 | 3 | Foundations III: Tools for data visualizations | --- | --- |
 | Feb, 03 | 4 | Techniques I: Visualizing Statistical and Multivariate Data | --- | --- |
