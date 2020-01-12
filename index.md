@@ -46,6 +46,8 @@ A detailed description and slides for each lecture is found [here](lectures.html
 
 ## Recommended Literature
 
+More books and sources [here](https://visualinteractivedata.github.io/resources.html)
+
 - Segel, Heer, Narrative Visualization, 2010, https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf
 - Bertin, Semiology of Graphics, 1987
 - Nussbaumer: Storytelling with Data, 2017: http://www.storytellingwithdata.com
