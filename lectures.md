@@ -12,8 +12,6 @@ This lecture introduces the basics concepts of data visualizaion: Why are we usi
 
 * __[Slides: DataVis2020_0-Course Overview.pdf](slides/DataVis2020_0-Course-Overview.pdf)__
 
-Visualization.pdf)__
-
 ## 2. Foundations II: Visualization design
 This lecture talks about effective and ineffective visualization designs. It shows examples of ineffective and deceptive visualizations and describes _visualization guidelines_ that help designing effective visualiztions. The corresponding tutorial will exercise over common problems with visualizations and work towards proposing solutions via _sketching_, a powerful method introduced in the tutorial.
 
