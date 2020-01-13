@@ -10,13 +10,13 @@ Lectures are grouped into four parts:
 ## 1. Foundations I: Introduction to Data Vis
 This lecture introduces the basics concepts of data visualizaion: Why are we using data visualization? Why does visualization work?. The lecture includes topics such as _perception_ and _color_ and concepts such as _exploratory data analysis_, _data-driven storytelling_, _visual variables_, _visual mappings_, _visualization pipeline_, _visualization techniques_, _visual representation_, and _visualization literacy_.
 
-__[Slides: DataVis2020_0-Course Overview](slides/DataVis2020_0-Course-Overview.pdf)__
-__[Slides: DataVis2020_1-Introduction to Data Visualization](slides/DataVis2020_1-Introduction-to-Data-Visualization.pdf)__
+* __[Slides: DataVis2020_0-Course Overview.pdf](slides/DataVis2020_0-Course-Overview.pdf)__
+* __[Slides: DataVis2020_1-Introduction to Data Visualization.pdf](slides/DataVis2020_1-Introduction-to-Data-Visualization.pdf)__
 
 ## 2. Foundations II: Visualization design
 This lecture talks about effective and ineffective visualization designs. It shows examples of ineffective and deceptive visualizations and describes _visualization guidelines_ that help designing effective visualiztions. The corresponding tutorial will exercise over common problems with visualizations and work towards proposing solutions via _sketching_, a powerful method introduced in the tutorial.
 
-__Literature__: Sheelagh's visual variables?
+* __[Reading: Carpendale_Considering_Visual_Variables.pdf](pdfs/Carpendale_Considering_Visual_Variables.pdf)
 
 
 ## 3. Foundations III: Tools for data visualizations
