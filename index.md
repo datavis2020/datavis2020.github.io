@@ -43,10 +43,7 @@ A detailed description and slides for each lecture is found [here](lectures.html
 | Mar, 23 | 10 | Topic Lecture | T5: Atelier | --- |
 | Mar, 30 | 11 | __Final Presentations__ | --- | Assignment 2 |
 
-
 ## Recommended Literature
-
-More books and sources [here](https://visualinteractivedata.github.io/resources.html)
 
 - Segel, Heer, Narrative Visualization, 2010, https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf
 - Bertin, Semiology of Graphics, 1987
@@ -60,3 +57,12 @@ More books and sources [here](https://visualinteractivedata.github.io/resources.
 - Panday et al: How deceptive are deceptive visualizations: An empirical analysis of common distortion techniques, 2015
 - Von Landesberger et al: Visual analysis of large graphs: state of the art and future research challenges, 2011
 - Tamara Munzner: A nested model for visualization design and validation, 2009
+
+
+## Additional Course material (optional)
+
+* Books and sources [here](https://visualinteractivedata.github.io/res-books.html)
+* Visualization collections and sources [here](https://visualinteractivedata.github.io/res-collections.html)
+* Visualization tools and sources [here](https://visualinteractivedata.github.io/res-tools.html)
+
+
