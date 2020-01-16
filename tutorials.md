@@ -28,9 +28,9 @@ __Tasks:__
    * _In groups of four_,
    * formulate visualization guidelines to overcome these flaws/pitfals. Use careful formulations: _"Do X; "Avoid Y"; "If X, then Y"; "Keep in mind that X"_, etc.
 
-__break (10min)__
+4. __break (10min)__
 
-4. Re-design (30min)
+5. Re-design (30min)
    * _with your neighbor_
    * pick 2 visualizations from the charts provided
    * re-design the visualizations to fix the flaws. 
