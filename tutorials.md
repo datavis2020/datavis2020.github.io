@@ -42,10 +42,8 @@ __Tasks:__
 
 ## T2: Challenge + Sketching
 
-__Goals:__
 
 
-__Tasks:__
 
 ## T3: Storyboarding
 
