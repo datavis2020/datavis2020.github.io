@@ -1,6 +1,6 @@
 # Tutorials
 
-## T1: Critique + Redesign
+## T1: Critique + Redesign (work-in-progress!)
 
 __Goals:__
 * Discover common flaws and mis-interpretations of visualizations
