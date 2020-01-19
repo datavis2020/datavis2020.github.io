@@ -1,10 +1,12 @@
 # Data Visualization Guidelines (selection)
 
+
+
 ## Design process
 * Iterate over your designs, get feedback
 
 ## Visualization design
-* A chart must be as simple as possible, but not simpler
+* A chart must be as simple as possible, but not simpler. 
 * Rainbow color maps are harmful
 * Don’t use piecharts
 * Correspondence principle: The same data should produce the same visualization
@@ -39,3 +41,5 @@
 * Avoid circular charts
 * Rely on simple and well-known visualization unless you have a reason
 * Long lines are difficult to follow.
+* Take advantage of the space you have available (Alberto Cairo)
+* visualizations should not simplify messages, they should clarify them (Alberto Cairo)
