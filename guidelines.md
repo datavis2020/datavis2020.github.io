@@ -43,3 +43,7 @@
 * Long lines are difficult to follow.
 * Take advantage of the space you have available (Alberto Cairo)
 * visualizations should not simplify messages, they should clarify them (Alberto Cairo)
+* think of stucture firs, eye candy later (Albero cairo) 
+* organize your graphic ino layers: summary/intro, information, logical order 
+* Experimenting (carefully) with novel foms is not just a whimisical impulse, its a necssity (Albero Cairo)
+* the more novel a visalization is,the more redundancy should be included (Albero Cairo)
