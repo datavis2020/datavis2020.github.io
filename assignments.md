@@ -2,8 +2,6 @@
 
 The course requires handing in two assignments, each counting 50% towards the final mark. Failing to hand in an assignment at the due date, will lead to penalty points. 
 
-Up to 10% extran points can be obtained through activity in the [VisGuides Forum](http://visguides.org) as discussed in the lecture 2.
-
 Assignments will be marked using the Unversity's [Common Marking Scheme 1](https://www.ed.ac.uk/timetabling-examinations/exams/regulations/common-marking-scheme).
 
 Keep any descriptions as brief as possible. Use bullet lists wherever possible. 
