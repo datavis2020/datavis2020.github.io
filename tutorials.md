@@ -7,7 +7,7 @@ __Goals:__
 * Create visualization guidelines
 * Design improved visualizations
 
-__Material:__ [Charts](junkcharts.md)
+__Material:__ [Charts]
 
 __Tasks:__
 
@@ -15,7 +15,7 @@ __Tasks:__
    * _Individually_
    * Look at all the charts provided
    * list as many flaws as you can
-2. Discussion (20min)
+2. Discussion (10min)
    * _With your neighbor_, 
    * discuss the flaws you found 
    * compile a list of common flaws/pitfalls you found. 
@@ -27,16 +27,19 @@ __Tasks:__
 3. Guidelines (30min)
    * _In groups of four_,
    * formulate visualization guidelines to overcome these flaws/pitfals. Use careful formulations: _"Do X; "Avoid Y"; "If X, then Y"; "Keep in mind that X"_, etc.
+   
+4. Discuss guidelines in class 
 
-4. __break (10min)__
+5. __break (10min)__
 
-5. Re-design (30min)
+6. Re-design (30min)
    * _with your neighbor_
    * pick 2 visualizations from the charts provided
    * re-design the visualizations to fix the flaws. 
    * Argue with guidelines and state where guidlines can be violated.
    * Discuss solutions in four.
 
+7. Briefly discuss re-designs 
 
 
 ## W2: Challenge + Sketching
