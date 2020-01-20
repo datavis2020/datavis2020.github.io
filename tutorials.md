@@ -1,6 +1,6 @@
-# Tutorials
+# Workshops
 
-## T1: Critique + Redesign (work-in-progress!)
+## W1: Critique + Redesign (work-in-progress!)
 
 __Goals:__
 * Discover common flaws and mis-interpretations of visualizations
@@ -39,18 +39,17 @@ __Tasks:__
 
 
 
-
-## T2: Challenge + Sketching
-
+## W2: Challenge + Sketching
 
 
 
-## T3: Storyboarding
+
+## W3: Tools and data exploration
 
 
-## T4: Atelier 1
+## W4: Storyboarding
 
 
-## T5: Atelier 2
+## T5: Atelier
 
 This tutorial does not have a specific scope. Students are asked to work on their visualizations for Assignment 2. A tutor will be present in each tutorial to discuss progress with students. 
