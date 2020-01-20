@@ -22,29 +22,25 @@ __Tasks:__
    * Give each pitfall 
       * a name (e.g., 'Axes truncated') 
       * and an implication of how this might affect people's (mis)interpretation ('People will mis-interpret differences between values on the y-axis. People might misinterpret actual sizes. Etc.')
-      * and list potential exceptions
-   * Discuss in class
-3. Guidelines (30min)
-   * _In groups of four_,
+   * Discuss faults in class
+3. Guidelines (20min)
+   * _with your neighbor_,
    * formulate visualization guidelines to overcome these flaws/pitfals. Use careful formulations: _"Do X; "Avoid Y"; "If X, then Y"; "Keep in mind that X"_, etc.
    
-4. Discuss guidelines in class 
+4. Discuss guidelines in class (10min)
 
-5. __break (10min)__
+5. __break__
 
 6. Re-design (30min)
    * _with your neighbor_
    * pick 2 visualizations from the charts provided
-   * re-design the visualizations to fix the flaws. 
-   * Argue with guidelines and state where guidlines can be violated.
-   * Discuss solutions in four.
+   * for each visualization, create 2 possible redesigns
+   * Argue with the guidelines (see above) and state where guidlines can be violated.
 
-7. Briefly discuss re-designs 
+7. Discuss re-designs in class 
 
 
 ## W2: Challenge + Sketching
-
-
 
 
 ## W3: Tools and data exploration
