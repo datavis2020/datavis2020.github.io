@@ -7,7 +7,7 @@ __Goals:__
 * Create visualization guidelines
 * Design improved visualizations
 
-__Material:__ [Charts]
+__Material:__ [Charts](https://docs.google.com/document/d/1-IwXtp2cGhzSne20MI32YTtMOlgiz0nztgKZmuCcZOk/edit?usp=sharing)
 
 __Tasks:__
 
@@ -34,7 +34,7 @@ __Tasks:__
 6. Re-design (30min)
    * _with your neighbor_
    * pick 2 visualizations from the charts provided
-   * for each visualization, create 2 possible redesigns
+   * for each visualization, sketch 2 possible redesigns
    * Argue with the guidelines (see above) and state where guidlines can be violated.
 
 7. Discuss re-designs in class 
