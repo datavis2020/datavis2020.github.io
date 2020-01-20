@@ -8,6 +8,8 @@ Keep any descriptions as brief as possible. Use bullet lists wherever possible.
 
 ## Assignment 1
 
+This assignment will be introduced and explained in week 3.
+
 __Scope:__ Individually (one submission per student, through [Learn](https://www.learn.ed.ac.uk))
 
 __Weight towards course grade:__ 50%
