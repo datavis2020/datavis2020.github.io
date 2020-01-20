@@ -7,11 +7,28 @@ Lectures are grouped into four parts:
 * a __guest__ and an __open lecture__.
 
 
-## 1. Foundations I: Introduction to Data Vis
-This lecture introduces the basics concepts of data visualizaion: Why are we using data visualization? Why does visualization work?. The lecture includes topics such as _perception_ and _color_ and concepts such as _exploratory data analysis_, _data-driven storytelling_, _visual variables_, _visual mappings_, _visualization pipeline_, _visualization techniques_, _visual representation_, and _visualization literacy_.
-
+## Week 1: Course introducion
 * __[Slides: DataVis2020_0-Course Overview.pdf](slides/DataVis2020_0-Course-Overview.pdf)__
 * Just discovering after the lecture that on Jan 7, the BBC wrote an [article](https://www.bbc.com/news/blogs-trending-51020564) about the misleading visualization about Australian bushfires, discussing alternative visualizations. Quote: _"But it is actually artist Anthony Hearsey's visualisation of one month of data of locations where fire was detected, collected by Nasa's Fire Information for Resource Management System. [...] The scale is a little exaggerated due to the render's glow, but it is generally true to the info from the Nasa website. Also note that not all the areas are still burning, and this is a compilation," Mr Hearsey wrote on Instagram in response to criticism by viewers that the image was misleading."_
+
+
+## Week 2: Foundations I: Basic Concepts
+This lecture introduces the basics concepts of data visualizaion: Why are we using data visualization? Why does visualization work?. The lecture includes topics such as _perception_ and _color_ and concepts such as _exploratory data analysis_, _data-driven storytelling_, _visual variables_, _visual mappings_, _visualization pipeline_, _visualization techniques_, _visual representation_, and _visualization literacy_.
+
+* __[Slides: DataVis2020_2-Basic-Concepts.pdf](slides/DataVis2020_2-Basic-Concepts.pdf)__
+
+__Optional Reading__
+* Tamara Munzner: Visualization Analysis and Design
+  * Chapter 2. What: Data Abstraction
+  * Chapter 5. Marks and Channels
+* Alberto Cairo: The Functional Art
+  * Chapter 1: Why Visulize: From Information to Visdom
+  * Chapter 2: Forms and Functions: Visualization as Technology
+* Andy Kirk: Data Visualization
+  * Chapter 1: Defining Data Visualization
+* Jaques Bertin: Semiology of Graphics
+  * II.C: The retinal variables
+* Cleveland & MaGill: Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods, 1984
 
 ## 2. Foundations II: Visualization design
 This lecture talks about effective and ineffective visualization designs. It shows examples of ineffective and deceptive visualizations and describes _visualization guidelines_ that help designing effective visualiztions. The corresponding tutorial will exercise over common problems with visualizations and work towards proposing solutions via _sketching_, a powerful method introduced in the tutorial.
