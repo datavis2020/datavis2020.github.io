@@ -15,7 +15,7 @@ __Tasks:__
    * _Individually_
    * Look at all the charts provided
    * list as many flaws as you can
-2. Discussion (10min)
+2. Discussion (10 min)
    * _With your neighbor_, 
    * discuss the flaws you found 
    * compile a list of common flaws/pitfalls you found. 
@@ -23,21 +23,20 @@ __Tasks:__
       * a name (e.g., 'Axes truncated') 
       * and an implication of how this might affect people's (mis)interpretation ('People will mis-interpret differences between values on the y-axis. People might misinterpret actual sizes. Etc.')
    * Discuss faults in class
-3. Guidelines (20min)
-   * _with your neighbor_,
-   * formulate visualization guidelines to overcome these flaws/pitfals. Use careful formulations: _"Do X; "Avoid Y"; "If X, then Y"; "Keep in mind that X"_, etc.
-   
-4. Discuss guidelines in class (10min)
 
-5. __break__
+_break_
 
-6. Re-design (30min)
+3. Re-design (30min)
    * _with your neighbor_
    * pick 2 visualizations from the charts provided
    * for each visualization, sketch 2 possible redesigns
    * Argue with the guidelines (see above) and state where guidlines can be violated.
+   
+4. Guidelines (20min)
+   * _with your neighbor_,
+   * formulate visualization guidelines to overcome these flaws/pitfals. Use careful formulations: _"Do X; "Avoid Y"; "If X, then Y"; "Keep in mind that X"_, etc.
 
-7. Discuss re-designs in class 
+5. Show visulizations on wall (20min)
 
 
 ## W2: Challenge + Sketching
