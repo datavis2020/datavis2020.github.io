@@ -1,4 +1,4 @@
-# Workshops
+# Tutorials
 
 ## W1: Critique + Redesign (work-in-progress!)
 
