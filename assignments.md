@@ -4,11 +4,20 @@ The course requires handing in two assignments, each counting 50% towards the fi
 
 Assignments will be marked using the Unversity's [Common Marking Scheme 1](https://www.ed.ac.uk/timetabling-examinations/exams/regulations/common-marking-scheme).
 
-Keep any descriptions as brief as possible. Use bullet lists wherever possible. 
+Keep any descriptions as brief as possible. Use __bullet lists wherever possible__. 
+
+Make sure that you submit any written assignments using your __exam number only__, and that you state the number of words in your assignment. Your exam number is the number that starts with B on your student card. 
+
+Table of contents, figure captions, table captions, and references do not count towards your total number of words. 
 
 ## Assignment 1
 
 This assignment will be introduced and explained in week 3.
+
+__Goals:__ 
+* Understand how to critique a visualization
+* ability to argue with the corresponding knowledge in visualization, and
+* propose and sketch respective solutions.
 
 __Scope:__ Individually (one submission per student, through [Learn](https://www.learn.ed.ac.uk))
 
@@ -21,29 +30,35 @@ __Expected time investment:__ 15h
 __Descripion:__ 
 Analyze problems with a set of visualizations and propose improvements. 
 
-1. Find __two__ different visualizations (on the internet, in newspapers, TV, etc.). Different means, e.g., a line chart, a node-link diagram.
-2. For each visualization, describe __three__ faults and why they are problematic. Make sure to report different faults for each visualiztion, i.e., in total you should report __nine__ faults. 
-3. For each visaulization, propose (sketch) __one__ or __two__ visualizations that solve the identified faults. 
-4. For each solution you find, argue with a more general visualization guideline.
+1. Find __two__ different visualizations (on the internet, in newspapers, TV, etc.) like those in the tutorial. Different means, e.g., a line chart, a network, a map, etc.
+2. For each visualization, describe __three__ faults and why they are problematic. 
+   * Give the fault a name 
+   * explain possible implications and misinterpretations. 
+   * Describe possible improvements for each fault. 
+   * Make sure to report different faults for each visualiztion, i.e., in total you should report __six__ faults. 
+3. For each of the two visualization, 
+   * sketch __two__ different visualizations that solve the identified faults (4 visualizations in total). 
+   * For each solution you propose, argue why you have fixed a fault in this specific way.
 
 __Handing in:__ 
-* Submit a single PDF with as many pages as you like
-* Include any external references (web, papers, slides, etc) in your submission
-* You can annotate faults in the visualizations for #2.
-* For the sketch in #3, you can use _any_ tool and medium you like: pen and paper, digital pens, illustrator, etc.
-
+* Submit through Learn.
+* Submit a single PDF with as many pages as you like. Word limit: 500-700
+* Include any external references (web, papers, slides, etc) in your submission if you need them for your argument.
+* You can draw onto the visualization to highlight faults and problems.
+* For the sketch in #3, you can use _any_ tool and medium you like: pen and paper, digital pens, illustrator, etc. 
 
 __Marking scheme:__
 
 | Task | Max-points |  
 | --- | --- | 
-| Visualizations found | 4 |
+| Two Visualizations found | 4 |
 | Faults identified | 24 |
-| Fault problem explained | 24 |
+| Faults explained | 24 |
 | Faults fixed | 24 |
 | Fixes explained | 24 |
-| _Tool critique_ | _??_ |
+| _Extra points: Creativity of proposed visualization(s)_ | 4 |
 | __Total:__ | __100__ |
+
 
 
 
