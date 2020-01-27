@@ -47,11 +47,24 @@ __Required Reading:__
 * Albero Cairo: The Functional Art 
   * Chapter 3: The Beauty Paradox: Art and Communication
 
+__Further Reading__
+* Kong, Ha-Kyung, Zhicheng Liu, and Karrie Karahalios. "Frames and slants in titles of visualizations on controversial topics." Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems. 2018.
+* Edward Tufte. The Visual Display of Quantitative Information, 1983
+* Stephen Few: Sometimes we must raise our voices: http://www.perceptualedge.com/articles/visual_business_intelligence/sometimes_we_must_raise_our_voices.pdf
+* Nussbaumer Knafflic: Storyelling with data
+  * Chapter 2: Choosing an effective visual
+  * Chapter 3: Visual clutter is your enemy
+  * Chapter 4: Focus on your audiences' attention
+* Bateman, Scott, et al. "Useful junk? The effects of visual embellishment on comprehension and memorability of charts." Proceedings of the SIGCHI conference on human factors in computing systems. 2010.
+* Borgo, Rita, et al. "An empirical study on using visual embellishments in visualization." IEEE Transactions on Visualization and Computer Graphics 18.12 (2012): 2759-2768.
+* Borkin, Michelle A., et al. "What makes a visualization memorable?." IEEE Transactions on Visualization and Computer Graphics 19.12 (2013): 2306-2315.
 
+<!--
 ## 3. Foundations III: Tools for data visualizations
 This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and javascript (e.g., D3), but also tools using common user interfaces (e.g, [Rawgraph](https://rawgraphs.io)], [Datawrapper](https://www.datawrapper.de)). The lecture will not teach _how_ to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations. 
+-->
 
-## 4. Techniques I: Statistical and Multivariate Data
+## Week 4. Techniques I: Statistical and Multivariate Data
 _Techniques_ are fundamental to data visualizations and refer to specific visual representions (both terms are often used synonymously but 'technique' can include and heavy rely on _user interaction_). Knowing a wide range of techniques, their advantages and disadvantages will help finding appropriate techniques for a given problem as well as improving existing techniques and design novel techinques that solve some current problems. Some of the techniques discussed in Techniques I-III will seem familar to some of you, others will be entire unfamilar, yet. If a technique looks familar to you, it is worth looking twice, there might be things you did not know about this technique or assumed wrongly.
 
 This first lecture will discuss techniques for statistical and multivariate data (distributions, data with many dimensions/attributes): _boxplots_, _error bars_, _histograms_, _starglyphs_, parallel coordinates plots_, and many more.
