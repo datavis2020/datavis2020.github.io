@@ -39,7 +39,8 @@ Analyze problems with a set of visualizations and propose improvements. 
    * Describe possible improvements for each fault. 
    * Make sure to report different faults for each visualiztion, i.e., in total you should report __six__ faults. 
 3. For each of the two visualization, 
-   * sketch __two__ different visualizations that solve the identified faults (4 visualizations in total). 
+   * Create (sketch) __one__ visualization that solve the identified faults (4 visualizations in total). 
+   * Make sure to avoid any of the common faults discussed in class and the tutorials.
    * For each solution you propose, argue why you have fixed a fault in this specific way.
 
 __Handing in:__ 
