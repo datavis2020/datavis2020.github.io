@@ -32,6 +32,7 @@ Analyze problems with a set of visualizations and propose improvements. 
 
 1. Find __two__ different visualizations (on the internet, in newspapers, TV, etc.) like those in the tutorial. Different means, e.g., a line chart, a network, a map, etc. 
   * Explain who made the visualizations and in which context they were shown (Text book, Twitter, News, ...) 
+  * make sure to inlude the exact link to the visualization.
 2. For each visualization, describe __three__ faults and why they are problematic. 
    * Give the fault a name 
    * explain possible implications and misinterpretations. 
@@ -60,7 +61,7 @@ __Marking scheme:__
 | _Extra points: Creativity of proposed visualization(s)_ | 4 |
 | __Total:__ | __100__ |
 
-
+Points will be removed if plagiarism among students is found. 
 
 
 ## Assignment 2
