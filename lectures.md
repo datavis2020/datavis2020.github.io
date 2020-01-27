@@ -23,7 +23,7 @@ __Required Reading:__
   * [Carpendale_Considering_Visual_Variables.pdf](pdfs/Carpendale_Considering_Visual_Variables.pdf)__
 
 __Lecture Slides:__
-* [DataVis2020_2-Basic-Concepts.pdf](slides/DataVis2020_2-Basic-Concepts.pdf)
+* c(slides/DataVis2020_2-Basic-Concepts.pdf)
 
 __Optional Reading__
 * Tamara Munzner: Visualization Analysis and Design
@@ -42,6 +42,9 @@ __Optional Reading__
 
 ## Week 3: Foundations II: Visualization design
 This lecture talks about effective and ineffective visualization designs. It shows examples of ineffective and deceptive visualizations and describes _visualization guidelines_ that help designing effective visualiztions. The corresponding tutorial will exercise over common problems with visualizations and work towards proposing solutions via _sketching_, a powerful method introduced in the tutorial.
+
+__[Slides]__
+* [DataVis2020_2-VisualizationDesign.pdf](slides/DataVis2020_2-VisualizationDesign.pdf)__
 
 __Required Reading:__
 * Albero Cairo: The Functional Art 
