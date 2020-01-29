@@ -23,7 +23,7 @@ __Required Reading:__
   * [Carpendale_Considering_Visual_Variables.pdf](pdfs/Carpendale_Considering_Visual_Variables.pdf)__
 
 __Lecture Slides:__
-* c(slides/DataVis2020_2-Basic-Concepts.pdf)
+* [slides/DataVis2020_2-Basic-Concepts.pdf](slides/DataVis2020_2-Basic-Concepts.pdf)
 
 __Optional Reading__
 * Tamara Munzner: Visualization Analysis and Design
