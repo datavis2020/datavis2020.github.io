@@ -47,12 +47,12 @@ __[Slides]__
 * [DataVis2020_2-VisualizationDesign.pdf](slides/DataVis2020_3-VisualizationDesign.pdf)
 * [DataVis2020_2-Basic-Colors.pdf](slides/DataVis2020_3-Color.pdf)
   * [Video lecture: Color-1-Intro.mov](https://drive.google.com/open?id=1pa7e2j159ezb47ybCk4QAuKl4PGbeyl3) (15:50)
-  * [Video lecture: Color-2-Sequential.mov](https://drive.google.com/open?id=1Aie7pJk5t4x4KcetwGZeOdUzOwVPRXsI)(11:32)
-  * [Video lecture: Color-3-Diverging.mov](https://drive.google.com/open?id=15mxXWC66trJ5GaSpGg1_0GeSvRcVA8lz)(2:32)
-  * [Video lecture: Color-4-Categorical.mov](https://drive.google.com/open?id=1qzc0UfVimQH_7J7PrlfP7hHLWFxwoVVB)(5:45)
-  * [Video lecture: Color-5-Rainbow-colormap.pdf](https://drive.google.com/open?id=1bVXO6UG7scpb4o9U_nxfC5WGh0d6nex-)(11:52)
-  * [Video lecture: Color-6-Colorblindness.pdf](https://drive.google.com/open?id=168A7ZbWJZCh04YBYuGtRiykAPmK5zz25)(6:37)
-  * [Video lecture: Color-7-Extra.pdf](https://drive.google.com/open?id=1VaM-1Xu7KM3XwiG-k3UfHkr9C0f8LdmB)(4:20)
+  * [Video lecture: Color-2-Sequential.mov](https://drive.google.com/open?id=1Aie7pJk5t4x4KcetwGZeOdUzOwVPRXsI) (11:32)
+  * [Video lecture: Color-3-Diverging.mov](https://drive.google.com/open?id=15mxXWC66trJ5GaSpGg1_0GeSvRcVA8lz) (2:32)
+  * [Video lecture: Color-4-Categorical.mov](https://drive.google.com/open?id=1qzc0UfVimQH_7J7PrlfP7hHLWFxwoVVB) (5:45)
+  * [Video lecture: Color-5-Rainbow-colormap.pdf](https://drive.google.com/open?id=1bVXO6UG7scpb4o9U_nxfC5WGh0d6nex-) (11:52)
+  * [Video lecture: Color-6-Colorblindness.pdf](https://drive.google.com/open?id=168A7ZbWJZCh04YBYuGtRiykAPmK5zz25) (6:37)
+  * [Video lecture: Color-7-Extra.pdf](https://drive.google.com/open?id=1VaM-1Xu7KM3XwiG-k3UfHkr9C0f8LdmB) (4:20)
 
 
 __Required Reading:__
