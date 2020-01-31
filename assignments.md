@@ -78,7 +78,7 @@ __Due date:__ 4. April 2020
 
 __Expected time investment:__ 15h
 
-__Description:__ Students work in groups of 2-3 students to analyze, design, and implement a visualization prototype. This can include interactive web visualizations, data physicalizations, data comics, infographics, etc. 
+__Description:__ Students work in groups of 3 students to analyze, design, and implement a visualization prototype. This can include interactive web visualizations, data physicalizations, data comics, infographics, etc. 
 
 __1. Challenge description:__ Describe a challenge around the data. A challenge includes: 
 - Data: What is your data and where is it coming from?
