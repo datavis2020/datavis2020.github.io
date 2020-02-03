@@ -40,20 +40,13 @@ __Optional Reading__
 * Cleveland & MaGill: Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods, 1984
 
 
-## Week 3: Foundations II: Visualization design
+## Week 3: Visualization Design and Color
+
+__Foundations: Visualization design__
 This lecture talks about effective and ineffective visualization designs. It shows examples of ineffective and deceptive visualizations and describes _visualization guidelines_ that help designing effective visualiztions. The corresponding tutorial will exercise over common problems with visualizations and work towards proposing solutions via _sketching_, a powerful method introduced in the tutorial.
 
 __[Slides]__
 * [DataVis2020_2-VisualizationDesign.pdf](slides/DataVis2020_3-VisualizationDesign.pdf)
-* [DataVis2020_2-Basic-Colors.pdf](slides/DataVis2020_3-Color.pdf)
-  * [Video lecture: Color-1-Intro.mov](https://drive.google.com/open?id=1pa7e2j159ezb47ybCk4QAuKl4PGbeyl3) (15:50)
-  * [Video lecture: Color-2-Sequential.mov](https://drive.google.com/open?id=1Aie7pJk5t4x4KcetwGZeOdUzOwVPRXsI) (11:32)
-  * [Video lecture: Color-3-Diverging.mov](https://drive.google.com/open?id=15mxXWC66trJ5GaSpGg1_0GeSvRcVA8lz) (2:32)
-  * [Video lecture: Color-4-Categorical.mov](https://drive.google.com/open?id=1qzc0UfVimQH_7J7PrlfP7hHLWFxwoVVB) (5:45)
-  * [Video lecture: Color-5-Rainbow-colormap.pdf](https://drive.google.com/open?id=1bVXO6UG7scpb4o9U_nxfC5WGh0d6nex-) (11:52)
-  * [Video lecture: Color-6-Colorblindness.pdf](https://drive.google.com/open?id=168A7ZbWJZCh04YBYuGtRiykAPmK5zz25) (6:37)
-  * [Video lecture: Color-7-Extra.pdf](https://drive.google.com/open?id=1VaM-1Xu7KM3XwiG-k3UfHkr9C0f8LdmB) (4:20)
-
 
 __Required Reading:__
 * Albero Cairo: The Functional Art 
@@ -71,15 +64,42 @@ __Further Reading__
 * Borgo, Rita, et al. "An empirical study on using visual embellishments in visualization." IEEE Transactions on Visualization and Computer Graphics 18.12 (2012): 2759-2768.
 * Borkin, Michelle A., et al. "What makes a visualization memorable?." IEEE Transactions on Visualization and Computer Graphics 19.12 (2013): 2306-2315.
 
-<!--
-## 3. Foundations III: Tools for data visualizations
-This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and javascript (e.g., D3), but also tools using common user interfaces (e.g, [Rawgraph](https://rawgraphs.io)], [Datawrapper](https://www.datawrapper.de)). The lecture will not teach _how_ to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations. 
--->
+__Video Lecture---Foundations: Color for Data Visualization__
+This lecture provides a brief introduction and overview over color perception and the use of color scales in data visualization. It also covers color blindness, color across cultures and some simple tools to use color.
 
-## Week 4. Techniques I: Statistical and Multivariate Data
+* [DataVis2020_2-Basic-Colors.pdf](slides/DataVis2020_3-Color.pdf)
+  * [Video lecture: Color-1-Intro.mov](https://drive.google.com/open?id=1pa7e2j159ezb47ybCk4QAuKl4PGbeyl3) (15:50)
+  * [Video lecture: Color-2-Sequential.mov](https://drive.google.com/open?id=1Aie7pJk5t4x4KcetwGZeOdUzOwVPRXsI) (11:32)
+  * [Video lecture: Color-3-Diverging.mov](https://drive.google.com/open?id=15mxXWC66trJ5GaSpGg1_0GeSvRcVA8lz) (2:32)
+  * [Video lecture: Color-4-Categorical.mov](https://drive.google.com/open?id=1qzc0UfVimQH_7J7PrlfP7hHLWFxwoVVB) (5:45)
+  * [Video lecture: Color-5-Rainbow-colormap.pdf](https://drive.google.com/open?id=1bVXO6UG7scpb4o9U_nxfC5WGh0d6nex-) (11:52)
+  * [Video lecture: Color-6-Colorblindness.pdf](https://drive.google.com/open?id=168A7ZbWJZCh04YBYuGtRiykAPmK5zz25) (6:37)
+  * [Video lecture: Color-7-Extra.pdf](https://drive.google.com/open?id=1VaM-1Xu7KM3XwiG-k3UfHkr9C0f8LdmB) (4:20)
+
+__Further reading__
+* Wong, Bang. "Points of view: Color blindness." (2011): 441.
+* Tamara Munzner: Visualization Analysis and Design, 2016; Chapter 10: Map Color and Other Channels
+* https://www.color-blindness.com/types-of-color-blindness
+* Colin Ware: Information Visualization—Perception for Design, 2012
+
+## Week 4 Tools and Multivariate data 
+
+__Foundations: Tools for data visualizations__
+This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and javascript (e.g., D3), but also tools using common user interfaces (e.g, [Rawgraph](https://rawgraphs.io)], [Datawrapper](https://www.datawrapper.de)). The lecture will not teach _how_ to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations. 
+
+__Lecture Slides__
+
+__Links__
+* [Ben's Visualization Tool Collecton](https://visualinteractivedata.github.io/res-tools.html)
+* [Visualization Tool Collecton from Datavisualization.ch](Datavisualization.ch)
+
+
+__Video Lecture---Techniques: Statistical and Multivariate Data__
 _Techniques_ are fundamental to data visualizations and refer to specific visual representions (both terms are often used synonymously but 'technique' can include and heavy rely on _user interaction_). Knowing a wide range of techniques, their advantages and disadvantages will help finding appropriate techniques for a given problem as well as improving existing techniques and design novel techinques that solve some current problems. Some of the techniques discussed in Techniques I-III will seem familar to some of you, others will be entire unfamilar, yet. If a technique looks familar to you, it is worth looking twice, there might be things you did not know about this technique or assumed wrongly.
 
 This first lecture will discuss techniques for statistical and multivariate data (distributions, data with many dimensions/attributes): _boxplots_, _error bars_, _histograms_, _starglyphs_, parallel coordinates plots_, and many more.
+
+
 
 ## 5. Techniques II: Trees, Networks, and Sets
 
