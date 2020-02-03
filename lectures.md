@@ -88,6 +88,8 @@ __Foundations: Tools for data visualizations__
 This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and javascript (e.g., D3), but also tools using common user interfaces (e.g, [Rawgraph](https://rawgraphs.io)], [Datawrapper](https://www.datawrapper.de)). The lecture will not teach _how_ to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations. 
 
 __Lecture Slides__
+* [DataVis2020_4-VisualizationTools.pdf](slides/DataVis2020_4-VisualizationTools.pdf)
+* [Online version (with videos)](https://docs.google.com/presentation/d/1iStzcflas6nI16zWF4PaExCFsW1OH4XlsjweAWZPylc/edit?usp=sharing)
 
 __Links__
 * [Ben's Visualization Tool Collecton](https://visualinteractivedata.github.io/res-tools.html)
