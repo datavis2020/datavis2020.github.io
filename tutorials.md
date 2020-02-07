@@ -41,6 +41,36 @@ _break_
 
 ## W2: Challenge + Sketching
 
+[DataVis2020_4-Sketching](slides/DataVis2020_4-Sketching.pdf)
+
+1. Data Challenge: Draft a data challenge for the data you might think working with in assignment #2. A data challenge describes the context for your visualization project. Take a sheet and fold it twice so you get 4 areas. In each area, write notes about the following: 
+   1. Data: 
+      * What is my data about? 
+      * Where does it come from?
+      * How is it characterized? 
+   2. Messages / Insigths / Facts
+      * What am I looking for in the data? 
+      * What is the data showing?
+      * What do I want to tell to the reader?  
+   3. Audience: 
+      * Who is my audience? 
+      * Why should they matter?
+      * What do they know about topic? 
+      * What do they know about visualization?
+   4. Context
+      * Where does the audience engage with the visualization? 
+      * How do they engage?
+   * Work out the challenge alone, then discuss with your neighbor(s)
+   * Are there people with similar data and interest in class? 
+2. Sketching intro: This is a quick intro by your tutor to quickly express an idea through sketching
+   1. Time a few seconds to draw what your tutor is telling you (~4 pieces)
+   2. Draw your home country (10sec)
+   3. Draw population density inside (20sec)
+3. Sketching data: Sketch your own data or some small data sample provided by your tutor
+   * Draw 4 quick sketches (2min each)
+   * Discuss with your neighbors
+   * Elaborate on 1 visualization 
+   * Discuss in class
 
 ## W3: Tools and data exploration
 
