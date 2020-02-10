@@ -23,7 +23,7 @@ __Scope:__ Individually (one submission per student, through [Learn](https://www
 
 __Weight towards course grade:__ 50%
 
-__Due date:__ 15. February 2020
+__Due date:__ Monday 26. February 2020, 4pm UK time
 
 __Expected time investment:__ 15h
 
@@ -74,7 +74,7 @@ __Scope:__ In groups of 3 students (one submission per group, through [Learn](ht
 
 __Weight towards course grade:__ 50%
 
-__Due date:__ 4. April 2020
+__Due date:__ Friday 3. April 2020, 4pm UK time.
 
 __Expected time investment:__ 15h
 
