@@ -1,9 +1,9 @@
 # Lectures
 
 Lectures are grouped into four parts: 
-* __Foundations__ (I-III), 
-* __Techniques__ (I-III), 
-* __Advanced__ (I-II), as well as
+* __Foundations__ , 
+* __Techniques__ , 
+* __Advanced__, as well as
 * a __guest__ and an __open lecture__.
 
 
@@ -82,7 +82,7 @@ __Further reading__
 * https://www.color-blindness.com/types-of-color-blindness
 * Colin Ware: Information Visualization—Perception for Design, 2012
 
-## Week 4 Tools and Multivariate data 
+## Week 4 Tools
 
 __Foundations: Tools for data visualizations__
 This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and javascript (e.g., D3), but also tools using common user interfaces (e.g, [Rawgraph](https://rawgraphs.io)], [Datawrapper](https://www.datawrapper.de)). The lecture will not teach _how_ to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations. 
@@ -96,32 +96,32 @@ __Links__
 * [Visualization Tool Collecton from Datavisualization.ch](Datavisualization.ch)
 
 
-__Video Lecture---Techniques: Statistical and Multivariate Data__
-_Techniques_ are fundamental to data visualizations and refer to specific visual representions (both terms are often used synonymously but 'technique' can include and heavy rely on _user interaction_). Knowing a wide range of techniques, their advantages and disadvantages will help finding appropriate techniques for a given problem as well as improving existing techniques and design novel techinques that solve some current problems. Some of the techniques discussed in Techniques I-III will seem familar to some of you, others will be entire unfamilar, yet. If a technique looks familar to you, it is worth looking twice, there might be things you did not know about this technique or assumed wrongly.
-
-This first lecture will discuss techniques for statistical and multivariate data (distributions, data with many dimensions/attributes): _boxplots_, _error bars_, _histograms_, _starglyphs_, parallel coordinates plots_, and many more.
+__Video Lecture---Techniques: Statistical Visualizations
+_(pending)_
 
 
 
-## 5. Techniques II: Trees, Networks, and Sets
+## 5. Techniques: Multidimensional data and Trees & Hierarchies
 
-This lecture covers visualizations techniques for data with relations: trees (hiearchies), networks (graphs), and sets. Techniques include _nodelink diagram_, _adjacency matrix_, _arc diagram_, _pivot graph_, _treemap_, and _up-set_.
+__Lecture Slides__
+* [DataVis2020_5-MultivariateData](slides/DataVis2020_5-MultivariateData.pdf)
 
-## 6. Techniques III: Geographic and Temporal
+__Video Lecture---Techniques: Trees and Hierarchies
+_(pending)_
 
-This lecture covers visualizations techniques for geographical and temporal data. Techniques include _coropleth maps_, _chernoff faces_, _small multiples_, _space-time cubes_, and _animation_ techniques.
 
-## 7. Advanced I: Storytelling and Communication
+## 6. Techniques: Networks and Geographic data
+
+## 7. Techniques: Temporal Data
+
+## 8. Advanced: Storytelling and Communication
 
 This lecture focuses on effective presentation techniques when using visualizations in e.g., infographics or presentations. Other presentation media can include videos, posters, and [datacomics](http://datacomics.net). The lecture investigates how presenting and talking with visualizations is different than using visualizations for exploring and analyzing data. Spoiler alert: "It's the audience, stupid!".
 
-## 8. Advanced II: Evaluating visualization techniques
-This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is "successful". Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes five levels to check for success _Visibility_, _Readability_, _Understandability_, _Appropriateness_, _Truthfulness_. Evaluation methods involve a set of techniques from Human-Computer Interaction (HCI) such as _guidlines_,  _quantitative evaluation_, _qualitative visualization_, _user tracking_, _samples_, and _tasks_, and _statistical analysis_. 
-
 ## 9. Guest Lecture: TDB
 
-## 10. Projcect consultation
-This lecture slot is reserved to discuss you projects and any open question and topics you may have. During the course, I will keep a [document](https://docs.google.com/document/d/1aIW7J3aJc3nD1q1aBh_ejXzfFTz0TX2NrW-DMJiaLQQ/edit?usp=sharing) to collect suggesions of topics you would like to know more. I will prepare a lecture to talk about some selected topics). Use the document to anonymously suggest topics or pose questions and up-vote those of your fellows.
+## 10. Advanced: Evaluating visualization techniques
+This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is "successful". Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes five levels to check for success _Visibility_, _Readability_, _Understandability_, _Appropriateness_, _Truthfulness_. Evaluation methods involve a set of techniques from Human-Computer Interaction (HCI) such as _guidlines_,  _quantitative evaluation_, _qualitative visualization_, _user tracking_, _samples_, and _tasks_, and _statistical analysis_. 
 
 ## 11. Project presentations
 In order to give anyone an overview of the many greats works on Assignment 1, this lecture slot asks each group to present their work for about ~3min (depending on numbers of groups). Presentations and presentation quality will not be graded and this is a rather informal event to show and share your work with your fellows. Don't hestiate to offer suggestions for improvement for the final hand-in of [Assignment 2] and how your colleagues have done a specific visualization.
