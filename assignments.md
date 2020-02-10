@@ -23,7 +23,7 @@ __Scope:__ Individually (one submission per student, through [Learn](https://www
 
 __Weight towards course grade:__ 50%
 
-__Due date:__ Monday 26. February 2020, 4pm UK time
+__Due date:__ Wednesday 26. February 2020, 4pm UK time
 
 __Expected time investment:__ 15h
 
