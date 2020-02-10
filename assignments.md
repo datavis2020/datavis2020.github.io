@@ -39,19 +39,19 @@ Analyze problems with a set of visualizations and propose improvements. 
    * Describe possible improvements for each fault. 
    * Make sure to report different faults for each visualiztion, i.e., in total you should report __six__ faults. 
 3. For each of the two visualization, 
-   * Create __one__ visualization that solve the identified faults (2 visualizations in total). 
+   * Create __one__ visualization that solves the identified faults (i.e., _two_ visualizations in total). 
    * Make sure to avoid any of the common faults discussed in class and the tutorials.
-   * Create the final visualization digitally (using any of the tools discussed in class + illustrator)
-   * In exceptional cases, you can hand in hand-sketched visualization if you have good arguments.
-   * For each solution you propose, argue why you have fixed a fault in this specific way.
+   * Create the final visualization either digitally (e.g., using any of the tools discussed in class) or by sketching using pen and paper.
+   * For each solution you propose, argue how you have fixed a fault from the original visualization.
    * Make sure the message is the same as in the original visualization.
+   
 
 __Handing in:__ 
 * Submit through Learn.
-* Submit a single PDF with as many pages as you like. Word limit: 500-700
-* Include any external references (web, papers, slides, etc) in your submission if you need them for your argument.
-* You can draw onto the visualization to highlight faults and problems.
-* For the sketch in #3, you can use _any_ tool and medium you like: pen and paper, digital pens, illustrator, etc. 
+* Submit a single PDF with as many pages as you like. Words: 500-700
+* Include references to any external references (web, papers, slides, etc) in your submission if you need them for your argument.
+* You can draw onto the original visualization to highlight faults and problems.
+* For the visualizations in #3, you can use _any_ tool and medium you like: pen and paper, digital pens, illustrator, etc. 
 
 __Marking scheme:__
 
