@@ -74,9 +74,23 @@ _break_
 
 ## W3: Tools and data exploration
 
+Explore a data set of your choice, using any of the tools discussed in class (e.g., Rawgraph, Tableau, D3)
+
+Discuss with your neighbor or group members
+* which insights can you find? 
+* how effective are the visualization you chose? What would need to be improved ?
+* How effective are the tool(s) you're using? Which features and workflows are working well? Which tools and features are hard to use? Which tools would you recommend?  
+
 
 ## W4: Storyboarding
 
+Create a storyboard and narrative around your visualzation projct. This tutorial should happen in groups. 
+
+* What is your goal and take-home message?
+* Who is your audience and why should they care?
+* What does your audience know about the topic?
+* Which facts do you need to communicate? 
+* What does your audience know about visualization and data analysis? 
 
 ## T5: Atelier
 
