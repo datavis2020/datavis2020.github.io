@@ -86,11 +86,23 @@ Discuss with your neighbor or group members
 
 Create a storyboard and narrative around your visualzation projct. This tutorial should happen in groups. 
 
+__Analysis__
 * What is your goal and take-home message?
 * Who is your audience and why should they care?
 * What does your audience know about the topic?
 * Which facts do you need to communicate? 
 * What does your audience know about visualization and data analysis? 
+
+__Story__
+* Script a brief narration for your topic
+
+__Design__
+* Create a 
+   * storyboard, e.g., for a data comic or video, 
+   * plan the layout for an infographic, 
+   * plan design and interaction for an interactive
+   * ...
+
 
 ## T5: Atelier
 
