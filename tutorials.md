@@ -1,6 +1,6 @@
 # Tutorials
 
-## W1: Critique + Redesign (work-in-progress!)
+## T1: Critique + Redesign (week 2)
 
 __Goals:__
 * Discover common flaws and mis-interpretations of visualizations
@@ -39,7 +39,7 @@ _break_
 5. Show visulizations on wall (20min)
 
 
-## W2: Challenge + Sketching
+## T2: Challenge + Sketching (week 4)
 
 [DataVis2020_4-Sketching](slides/DataVis2020_4-Sketching.pdf)
 
@@ -72,7 +72,7 @@ _break_
    * Elaborate on 1 visualization 
    * Discuss in class
 
-## W3: Tools and data exploration
+## T3: Tools and data exploration (week 6)
 
 Explore a data set of your choice, using any of the tools discussed in class (e.g., Rawgraph, Tableau, D3)
 
@@ -82,7 +82,7 @@ Discuss with your neighbor or group members
 * How effective are the tool(s) you're using? Which features and workflows are working well? Which tools and features are hard to use? Which tools would you recommend?  
 
 
-## W4: Storyboarding
+## T4: Storyboarding (week 8)
 
 Create a storyboard and narrative around your visualzation projct. This tutorial should happen in groups. 
 
@@ -104,6 +104,6 @@ __Design__
    * ...
 
 
-## T5: Atelier
+## T5: Atelier (week 10)
 
 This tutorial does not have a specific scope. Students are asked to work on their visualizations for Assignment 2. A tutor will be present in each tutorial to discuss progress with students. 
