@@ -42,7 +42,7 @@ __Optional Reading__
 
 ## Week 3: Visualization Design and Color
 
-__Foundations: Visualization design__
+### __Foundations: Visualization design__
 This lecture talks about effective and ineffective visualization designs. It shows examples of ineffective and deceptive visualizations and describes _visualization guidelines_ that help designing effective visualiztions. The corresponding tutorial will exercise over common problems with visualizations and work towards proposing solutions via _sketching_, a powerful method introduced in the tutorial.
 
 __[Slides]__
@@ -64,7 +64,7 @@ __Further Reading__
 * Borgo, Rita, et al. "An empirical study on using visual embellishments in visualization." IEEE Transactions on Visualization and Computer Graphics 18.12 (2012): 2759-2768.
 * Borkin, Michelle A., et al. "What makes a visualization memorable?." IEEE Transactions on Visualization and Computer Graphics 19.12 (2013): 2306-2315.
 
-__Video Lecture---Foundations: Color for Data Visualization__
+### __Video Lecture---Foundations: Color for Data Visualization__
 This lecture provides a brief introduction and overview over color perception and the use of color scales in data visualization. It also covers color blindness, color across cultures and some simple tools to use color.
 
 * [DataVis2020_2-Basic-Colors.pdf](slides/DataVis2020_3-Color.pdf)
@@ -82,9 +82,9 @@ __Further reading__
 * https://www.color-blindness.com/types-of-color-blindness
 * Colin Ware: Information Visualization—Perception for Design, 2012
 
-## Week 4 Tools
+## Week 4: Tools & Basic Charts
 
-__Foundations: Tools for data visualizations__
+### Foundations: Tools for data visualizations
 This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and javascript (e.g., D3), but also tools using common user interfaces (e.g, [Rawgraph](https://rawgraphs.io)], [Datawrapper](https://www.datawrapper.de)). The lecture will not teach _how_ to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations. 
 
 __Lecture Slides__
@@ -96,20 +96,47 @@ __Links__
 * [Visualization Tool Collecton from Datavisualization.ch](Datavisualization.ch)
 
 
-__Video Lecture---Techniques: Basic Charts
-* [DataVis2020_4-StatisticalCharts.pdf](slides/DataVis2020_4-StatisticalCharts.pdf)
-  * [Video lecture: Basic-Charts-1.mov](https://drive.google.com/open?id=1Ys8TZH6niXuUeGi_23XkcKPKw0rs7dym)(13min)
-  * [Video lecture: Basic-Charts-2.mov](https://drive.google.com/open?id=1AMkxrJSzYw4sVTAfkAmcWLcb1FBAT-Gv)(19min)
-  * [Video lecture: Basic-Charts-3.mov](https://drive.google.com/open?id=1ZYFIcJsoOWDOudpIwTVx7BBFeIvrMIM1)(10min)
+### __Video Lecture---Techniques: Basic Charts__
+This is the first of a set of lectures on visualization techniques, i.e., charts and visual representations. This lecture gives a brief overview over basic charts often used in scientific reports and news papers. This includes histograms, barcharts, violinplots, boxplot, linecharts, and piecharts. 
+
+* [DataVis2020_4-Basic-Charts.pdf](slides/DataVis2020_4-StatisticalCharts.pdf)
+  * [Video lecture: Basic-Charts-1.mov](https://drive.google.com/open?id=1Ys8TZH6niXuUeGi_23XkcKPKw0rs7dym) (13min)
+  * [Video lecture: Basic-Charts-2.mov](https://drive.google.com/open?id=1AMkxrJSzYw4sVTAfkAmcWLcb1FBAT-Gv) (19min)
+  * [Video lecture: Basic-Charts-3.mov](https://drive.google.com/open?id=1ZYFIcJsoOWDOudpIwTVx7BBFeIvrMIM1) (10min)
+
+__Further reading__
+* Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019.
+  * https://serialmentor.com/dataviz/visualizing-proportions.htm
+  * https://serialmentor.com/dataviz/histograms-density-plots.htmll
+  * https://serialmentor.com/dataviz/boxplots-violins.html
+* Hullman, Jessica, Paul Resnick, and Eytan Adar. "Hypothetical outcome plots outperform error bars and violin plots for inferences about reliability of variable ordering." PloS one 10.11 (2015).
+* Skau, Drew, and Robert Kosara. "Arcs, angles, or areas: Individual data encodings in pie and donut charts." Computer Graphics Forum. Vol. 35. No. 3. 2016.
+* Cairo, Alberto. The truthful art: data, charts, and maps for communication. New Riders, 2016.
+  * Chapter 6: Exploring Data with Simple Charts
+  * Chapter 7: Visualizing Distributions
 
 
-## 5. Techniques: Multidimensional data and Trees & Hierarchies
+## Week 5. Techniques: Multidimensional data and Trees & Hierarchies
+
+### Techniques: Multidimensional data
+As multidimensional data we can describe all sorts of data sets that have a variety of attributes, for example columns in table. Generally speaken, the more columns a dataset has, the more dimensions it has. This lecture talks about visualization techniques for multivariate data such as __scatterplots__, __glyphs__, __Mekko Chart__, __Heatmaps__, __Beeswarm plots__, __Scatterplot matrices__, __Parallel Coordinates Plots__, and __Multi-dimensional scaling__.
 
 __Lecture Slides__
 * [DataVis2020_5-MultivariateData](slides/DataVis2020_5-MultivariateData.pdf)
 
-__Video Lecture---Techniques: Trees and Hierarchies
-_(pending)_
+__Further Reading__
+* Shneiderman, Ben. "The eyes have it: A task by data type
+taxonomy for information visualizations." Proceedings 1996 IEEE
+symposium on visual languages. IEEE, 1996.
+* Fuchs, Johannes, et al. "A systematic review of experimental
+studies on data glyphs." IEEE transactions on visualization and
+computer graphics 23.7 (2016): 1863-1879.
+* Heinrich, Julian, and Daniel Weiskopf. "State of the Art of
+Parallel Coordinates." Eurographics (STARs). 2013.
+* https://visualizationcheatsheets.github.io/pcp.html
+
+### Video Lecture--- Techniques: Trees and Hierarchies
+
 
 
 ## 6. Techniques: Networks and Geographic data
