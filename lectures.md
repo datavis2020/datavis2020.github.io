@@ -25,7 +25,7 @@ __Required Reading:__
 __Lecture Slides:__
 * [DataVis2020_1-Basic-Concepts.pdf](slides/DataVis2020_2-Basic-Concepts.pdf)
 
-__Optional Reading__
+__Further Reading__
 * Tamara Munzner: Visualization Analysis and Design
   * Chapter 2. What: Data Abstraction
   * Chapter 5. Marks and Channels
@@ -139,7 +139,16 @@ Parallel Coordinates." Eurographics (STARs). 2013.
 
 
 
-## 6. Techniques: Networks and Geographic data
+## Week 6. Techniques: Networks and Geographic data
+
+### Techniques: Networks
+__Required Reading__
+* [Task Taxonomy for Graph Visualization](pdfs/lee-beliv06.pdf)
+
+
+
+### Video Lecture---Techniques: Geographic Data
+
 
 ## 7. Techniques: Temporal Data
 
