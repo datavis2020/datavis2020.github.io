@@ -44,8 +44,8 @@ __Further Reading__
 
 ### __Foundations: Visualization design__
 This lecture talks about effective and ineffective visualization designs. It shows examples of ineffective and deceptive visualizations and describes _visualization guidelines_ that help designing effective visualiztions. The corresponding tutorial will exercise over common problems with visualizations and work towards proposing solutions via _sketching_, a powerful method introduced in the tutorial.
-
-__[Slides]__
+r
+__Lecture Slides:__
 * [DataVis2020_2-VisualizationDesign.pdf](slides/DataVis2020_2-VisualizationDesign.pdf)
 
 __Required Reading:__
@@ -85,7 +85,7 @@ __Further reading__
 ## Week 4: Tools & Basic Charts
 
 ### Foundations: Tools for data visualizations
-This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and javascript (e.g., D3), but also tools using common user interfaces (e.g, [Rawgraph](https://rawgraphs.io)], [Datawrapper](https://www.datawrapper.de)). The lecture will not teach _how_ to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations. 
+This lecture overviews and introduces common software applications (tools) to help with both: data analysis and the creation of visualizations. We will overview tools for programming environments such as python (e.g., Seaborn) and javascript (e.g., D3), but also tools using common user interfaces (e.g, [Rawgraph](https://rawgraphs.io), [Datawrapper](https://www.datawrapper.de)). The lecture will not teach _how_ to use these tools, but focus on a high-level overview of the many different tools and workflows exist to create data visualizations. 
 
 __Lecture Slides__
 * [DataVis2020_4-VisualizationTools.pdf](slides/DataVis2020_4-VisualizationTools.pdf)
@@ -106,9 +106,9 @@ This is the first of a set of lectures on visualization techniques, i.e., charts
 
 __Further reading__
 * Wilke, Claus O. Fundamentals of data visualization: a primer on making informative and compelling figures. O'Reilly Media, 2019.
-  * https://serialmentor.com/dataviz/visualizing-proportions.htm
-  * https://serialmentor.com/dataviz/histograms-density-plots.htmll
-  * https://serialmentor.com/dataviz/boxplots-violins.html
+  * [https://serialmentor.com/dataviz/visualizing-proportions.html](https://serialmentor.com/dataviz/visualizing-proportions.html)
+  * [https://serialmentor.com/dataviz/histograms-density-plots.html](https://serialmentor.com/dataviz/histograms-density-plots.html)
+  * [https://serialmentor.com/dataviz/boxplots-violins.html](https://serialmentor.com/dataviz/boxplots-violins.html)
 * Hullman, Jessica, Paul Resnick, and Eytan Adar. "Hypothetical outcome plots outperform error bars and violin plots for inferences about reliability of variable ordering." PloS one 10.11 (2015).
 * Skau, Drew, and Robert Kosara. "Arcs, angles, or areas: Individual data encodings in pie and donut charts." Computer Graphics Forum. Vol. 35. No. 3. 2016.
 * Cairo, Alberto. The truthful art: data, charts, and maps for communication. New Riders, 2016.
@@ -133,7 +133,7 @@ studies on data glyphs." IEEE transactions on visualization and
 computer graphics 23.7 (2016): 1863-1879.
 * Heinrich, Julian, and Daniel Weiskopf. "State of the Art of
 Parallel Coordinates." Eurographics (STARs). 2013.
-* https://visualizationcheatsheets.github.io/pcp.html
+* [https://visualizationcheatsheets.github.io/pcp.html](https://visualizationcheatsheets.github.io/pcp.html)
 
 ### Video Lecture--- Techniques: Trees and Hierarchies
 
