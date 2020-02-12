@@ -68,13 +68,13 @@ __Video Lecture---Foundations: Color for Data Visualization__
 This lecture provides a brief introduction and overview over color perception and the use of color scales in data visualization. It also covers color blindness, color across cultures and some simple tools to use color.
 
 * [DataVis2020_2-Basic-Colors.pdf](slides/DataVis2020_3-Color.pdf)
-  * [Video lecture: Color-1-Intro.mov](https://drive.google.com/open?id=1pa7e2j159ezb47ybCk4QAuKl4PGbeyl3) (15:50)
-  * [Video lecture: Color-2-Sequential.mov](https://drive.google.com/open?id=1Aie7pJk5t4x4KcetwGZeOdUzOwVPRXsI) (11:32)
-  * [Video lecture: Color-3-Diverging.mov](https://drive.google.com/open?id=15mxXWC66trJ5GaSpGg1_0GeSvRcVA8lz) (2:32)
-  * [Video lecture: Color-4-Categorical.mov](https://drive.google.com/open?id=1qzc0UfVimQH_7J7PrlfP7hHLWFxwoVVB) (5:45)
-  * [Video lecture: Color-5-Rainbow-colormap.pdf](https://drive.google.com/open?id=1bVXO6UG7scpb4o9U_nxfC5WGh0d6nex-) (11:52)
-  * [Video lecture: Color-6-Colorblindness.pdf](https://drive.google.com/open?id=168A7ZbWJZCh04YBYuGtRiykAPmK5zz25) (6:37)
-  * [Video lecture: Color-7-Extra.pdf](https://drive.google.com/open?id=1VaM-1Xu7KM3XwiG-k3UfHkr9C0f8LdmB) (4:20)
+  * [Video lecture: Color-1-Intro.mov](https://drive.google.com/open?id=1pa7e2j159ezb47ybCk4QAuKl4PGbeyl3) (16mimn)
+  * [Video lecture: Color-2-Sequential.mov](https://drive.google.com/open?id=1Aie7pJk5t4x4KcetwGZeOdUzOwVPRXsI) (11min)
+  * [Video lecture: Color-3-Diverging.mov](https://drive.google.com/open?id=15mxXWC66trJ5GaSpGg1_0GeSvRcVA8lz) (3min)
+  * [Video lecture: Color-4-Categorical.mov](https://drive.google.com/open?id=1qzc0UfVimQH_7J7PrlfP7hHLWFxwoVVB) (6min)
+  * [Video lecture: Color-5-Rainbow-colormap.pdf](https://drive.google.com/open?id=1bVXO6UG7scpb4o9U_nxfC5WGh0d6nex-) (12min)
+  * [Video lecture: Color-6-Colorblindness.pdf](https://drive.google.com/open?id=168A7ZbWJZCh04YBYuGtRiykAPmK5zz25) (7min)
+  * [Video lecture: Color-7-Extra.pdf](https://drive.google.com/open?id=1VaM-1Xu7KM3XwiG-k3UfHkr9C0f8LdmB) (4min)
 
 __Further reading__
 * Wong, Bang. "Points of view: Color blindness." (2011): 441.
@@ -96,9 +96,11 @@ __Links__
 * [Visualization Tool Collecton from Datavisualization.ch](Datavisualization.ch)
 
 
-__Video Lecture---Techniques: Statistical Visualizations
-_(pending)_
-
+__Video Lecture---Techniques: Basic Charts
+* [DataVis2020_4-StatisticalCharts.pdf](slides/DataVis2020_4-StatisticalCharts.pdf)
+  * [Video lecture: Basic-Charts-1.mov](https://drive.google.com/open?id=1Ys8TZH6niXuUeGi_23XkcKPKw0rs7dym)(13min)
+  * [Video lecture: Basic-Charts-2.mov](https://drive.google.com/open?id=1AMkxrJSzYw4sVTAfkAmcWLcb1FBAT-Gv)(19min)
+  * [Video lecture: Basic-Charts-3.mov](https://drive.google.com/open?id=1ZYFIcJsoOWDOudpIwTVx7BBFeIvrMIM1)(10min)
 
 
 ## 5. Techniques: Multidimensional data and Trees & Hierarchies
