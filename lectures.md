@@ -142,8 +142,10 @@ Parallel Coordinates." Eurographics (STARs). 2013.
 ## Week 6. Techniques: Networks and Geographic data
 
 ### Techniques: Networks
+
 __Required Reading__
 * [Task Taxonomy for Graph Visualization](pdfs/lee-beliv06.pdf)
+* [A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations ](pdfs/ghoniem2004.pdf)
 
 
 
