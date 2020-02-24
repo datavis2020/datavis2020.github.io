@@ -78,49 +78,59 @@ __Due date:__ Friday 3. April 2020, 4pm UK time.
 
 __Expected time investment:__ 15h
 
-__Description:__ Students work in groups of 3 students to analyze, design, and implement a visualization prototype. This can include interactive web visualizations, data comics, or infographics. 
+__Description:__ Students work in groups of 3 students to analyze, design, and implement a visualization piece. This can include interactive web visualizations, data comics, or infographics (see below). 
 
-__1. Challenge description:__ Describe a challenge around the data (up to __500 words__, use bullet points where possible. A challenge includes: 
-- Data: What is your data and where is it coming from?
-- Motivation: What do you intend to see/show with the visualization?
-- Audience: who is the indented audience for this visualization and how are thy characterized? 
-- Context: what is th context that audience is using your visualization? 
+__1. Challenge description:__ Describe a challenge around the data (up to __500 words__, use bullet points where possible). A challenge includes: 
+- __Data:__ What is your data and where is it coming from?
+- __Motivation:__ What do you intend to see/show with the visualizations?
+- __Audience:__ who is the indented audience for this visualization and how are thy characterized? 
+- __Context:__ what is th context that audience is using your visualization? 
+
+How do these issues influence your design choices?
 
 __2. Visualization exploration:__ explore visualization designs for your data and explain your rationale (__200 words per visualization = 600 words__, use bullet points where possible)
-- explore at least __three different visualization designs__ with at least __two iteration__ for your data (e.g., one design per student in the group)
-- explain what does and work, what does not work, and how you went on. 
+- explore at least __three different visualization designs__ with at least __two iteration__ for your data (e.g., one design per student in the group). Include rough working sketches in the final submission (sketches will not be marked but show your thoughts and the evolution of ideas. Text can be unreadable, data be incomplete. Like the sketches in tutorial 2). 
+- explain what does and work, what does not work, and how you iterated at each step. 
 
-__3. Final design:__ present a final design and explain your design rationale (up to __500 words__, use bullet points where possible). This can be on of the following three formats: 
-* Infographic
-  * at least 3 different types of visualizations. These can be self-invented. 
-  * around 400 words on the infographic as text, abstract, story title, and any explanations. These words are not included in the 500 mentioned above.
-  * anything between A3 and A0 (poster) format (landscape or portrait)  
-* [Data comic](http://datacomics.net)
+__3. Final design:__ present a final design and explain your design rationale for everything that is not related to the visualization design itself as this has been stated in 2. just above (up to __500 words__, use bullet points where possible). This can be on of the following three formats: 
+* __Infographic__
+  * at least 3 different types of visualizations. These can be self-invented and creative
+  * around 400 words on the infographic as text, abstract, story title, and any explanations. These words are not included in the 500 words that describe your rationale.
+  * anything format between A3 and A0 (poster, landscape or portrait format)  
+* __[Data comic](http://datacomics.net)__
   * at least 4 A4 pages 
-* Interactive visualization 
+  * at least 3 different types of visualizations. These can be self-invented and creative.
+  * no word limit, no style restrictions
+* __Interactive visualization__ 
   * A single  bespoke and creative interactive visualization, to some degree self-implemented in D3 or processing, __or__ 
 * Any other ideas, let me know ASAP and we can discuss.  
 
-__4. Feedback report and reflection:__ For your final design, 
-* obtain feedback from at least 3 different persons, two of which must be part of this visualisation class, one must not be part of this class (up to 500 words).
-* Include feedback into your final design and mention what you did change (up to 200 words).
+Make sure you follow the instructions / exercises in tutorial 4. In your story mention: 
+* what is this data? 
+* facts about that data
+* explain any unfamilar visualizations and data-related concepts
+* summarize your main message
 
-__5. Visualiztion tool critique:__ Pick two visualization tools (does not inlude SVG tools!), e.g., from the ones discussed in class, and discuss (up to 1000 words)
+__4. Feedback report and reflection (up to __500__ words):__ For your final design, 
+* obtain feedback from at least 3 different persons in a structured interview. Summarize the main points.
+* Use the feedback to improve your final design and mention what you did change.
+
+__5. Visualiztion tool critique:__ Pick two visualization tools (does not inlude SVG tools!), e.g., from the ones discussed in class, and discuss (up to __1000__ words):
 * what's the overall purpose of this tool?
-* the range of visualizations and the quality of its output
+* the range of visualizations and the quality of its output (e.g., readability, colors, graphics, etc..)
 * the general workflow and possible interactions
 * which skills are required and what makes it tricky to learn the tool?
 * any special useful features
-* advantages and things you liked
-* disadvantages and things you disliked
-* ideas for future features and general improvement 
+* advantages and things you found useful
+* disadvantages and things you found hard
+* potential ideas for future features and general improvement 
 * how each tool supported your design / workflow.
 
 Use bullet points wherever possible. 
 
-Hand in as a single PDF with either
-* all graphics included, or 
-* web links (make sure they work and are permanent during the marking period).
+For Assignment 2, __hand in as a single PDF__ with either
+* graphics included, or 
+* web links (make sure they work and are permanent during the marking period). Learn might have an upload limit.
 
 
 	
