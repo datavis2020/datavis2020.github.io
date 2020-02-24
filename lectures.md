@@ -12,7 +12,7 @@ Course and assignmeent overview. Introduction into basics of data visualization
 
 __Lecture Slides:__
  * [Slides: DataVis2020_0-Course Overview.pdf](slides/DataVis2020_1-Course-Overview.pdf) 
- 
+
 Just discovering after the lecture that on Jan 7, the BBC wrote an [article](https://www.bbc.com/news/blogs-trending-51020564) about the misleading visualization about Australian bushfires, discussing alternative visualizations. Quote: _"But it is actually artist Anthony Hearsey's visualisation of one month of data of locations where fire was detected, collected by Nasa's Fire Information for Resource Management System. [...] The scale is a little exaggerated due to the render's glow, but it is generally true to the info from the Nasa website. Also note that not all the areas are still burning, and this is a compilation," Mr Hearsey wrote on Instagram in response to criticism by viewers that the image was misleading."_
 
 
@@ -149,6 +149,7 @@ __Required Reading__
 
 __Lecture Slides__
 * [DataVis2020_6-Networks](pdfs/DataVis2020_6-Networks.pdf)
+* [Flowgraph video](https://drive.google.com/open?id=0B4NT53pZkCtnZjd3VklJUDRJbTA)
 
 
 ### Video Lecture---Techniques: Geographic Data
