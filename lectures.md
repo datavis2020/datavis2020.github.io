@@ -147,6 +147,8 @@ __Required Reading__
 * [Task Taxonomy for Graph Visualization](pdfs/lee-beliv06.pdf)
 * [A Comparison of the Readability of Graphs Using Node-Link and Matrix-Based Representations ](pdfs/ghoniem2004.pdf)
 
+__Lecture Slides__
+* [DataVis2020_6-Networks](pdfs/DataVis2020_6-Networks.pdf)
 
 
 ### Video Lecture---Techniques: Geographic Data
