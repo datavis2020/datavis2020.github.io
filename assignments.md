@@ -101,13 +101,27 @@ __3. Final design:__ present a final design and explain your design rationale (u
   * A single  bespoke and creative interactive visualization, to some degree self-implemented in D3 or processing, __or__ 
 * Any other ideas, let me know ASAP and we can discuss.  
 
-__4. Visualiztion tool critique:__ Pick two visualization tools (does not inlude SVG tools!), e.g., from the ones discussed in class, and discuss (up to 1000 words)
-* the range of visualizations and the quality of its output?
+__4. Feedback report and reflection:__ For your final design, 
+* obtain feedback from at least 3 different persons, two of which must be part of this visualisation class, one must not be part of this class (up to 500 words).
+* Include feedback into your final design and mention what you did change (up to 200 words).
+
+__5. Visualiztion tool critique:__ Pick two visualization tools (does not inlude SVG tools!), e.g., from the ones discussed in class, and discuss (up to 1000 words)
+* what's the overall purpose of this tool?
+* the range of visualizations and the quality of its output
 * the general workflow and possible interactions
 * which skills are required and what makes it tricky to learn the tool?
-* advantages
-* disadvantages
+* any special useful features
+* advantages and things you liked
+* disadvantages and things you disliked
 * ideas for future features and general improvement 
+* how each tool supported your design / workflow.
+
+Use bullet points wherever possible. 
+
+Hand in as a single PDF with either
+* all graphics included, or 
+* web links (make sure they work and are permanent during the marking period).
+
 
 	
 __Marking scheme:__
@@ -116,7 +130,8 @@ __Marking scheme:__
 | --- | --- | 
 | Challenge description	| 20 |
 | Visualization exploration | 20 |
-| Final design | 40 |
+| Final design | 30 |
+| Design feedback | 10 |
 | Tool critique | 20 |
 | _Extra points: Creativity of proposed visualization(s)_ | 4 |
 | __Total:__ | __100__ |
