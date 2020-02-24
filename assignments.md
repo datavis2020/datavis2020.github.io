@@ -78,39 +78,47 @@ __Due date:__ Friday 3. April 2020, 4pm UK time.
 
 __Expected time investment:__ 15h
 
-__Description:__ Students work in groups of 3 students to analyze, design, and implement a visualization prototype. This can include interactive web visualizations, data physicalizations, data comics, infographics, etc. 
+__Description:__ Students work in groups of 3 students to analyze, design, and implement a visualization prototype. This can include interactive web visualizations, data comics, or infographics. 
 
-__1. Challenge description:__ Describe a challenge around the data. A challenge includes: 
+__1. Challenge description:__ Describe a challenge around the data (up to __500 words__, use bullet points where possible. A challenge includes: 
 - Data: What is your data and where is it coming from?
 - Motivation: What do you intend to see/show with the visualization?
 - Audience: who is the indented audience for this visualization and how are thy characterized? 
 - Context: what is th context that audience is using your visualization? 
 
-__2. Visualization exploration:__ explore visualization designs for your data 
+__2. Visualization exploration:__ explore visualization designs for your data and explain your rationale (__200 words per visualization = 600 words__, use bullet points where possible)
 - explore at least __three different visualization designs__ with at least __two iteration__ for your data (e.g., one design per student in the group)
 - explain what does and work, what does not work, and how you went on. 
 
-__3. Final design:__ present a final design. This can be on of the following four formats: 
+__3. Final design:__ present a final design and explain your design rationale (up to __500 words__, use bullet points where possible). This can be on of the following three formats: 
 * Infographic
-  * at least 3 different visualizations, 
-  * around 200 words.
-  * anything between A3 and A0 (poster) format (landscape or portrait) or 
+  * at least 3 different types of visualizations. These can be self-invented. 
+  * around 400 words on the infographic as text, abstract, story title, and any explanations. These words are not included in the 500 mentioned above.
+  * anything between A3 and A0 (poster) format (landscape or portrait)  
 * [Data comic](http://datacomics.net)
   * at least 4 A4 pages 
 * Interactive visualization 
-  * __Either__ a single  bespoke and creative interactive visualization, __or__ 
-  * a set of interactive standart visualizations, i.e., multple-views.
+  * A single  bespoke and creative interactive visualization, to some degree self-implemented in D3 or processing, __or__ 
+* Any other ideas, let me know ASAP and we can discuss.  
+
+__4. Visualiztion tool critique:__ Pick two visualization tools (does not inlude SVG tools!), e.g., from the ones discussed in class, and discuss (up to 1000 words)
+* the range of visualizations and the quality of its output?
+* the general workflow and possible interactions
+* which skills are required and what makes it tricky to learn the tool?
+* advantages
+* disadvantages
+* ideas for future features and general improvement 
 
 	
 __Marking scheme:__
 
 | Task | Max-points |  
 | --- | --- | 
-| Challenge description	| 10 |
-| Visualization exploration | 30 |
-| Final visualization design | 50 |
-| Presentation quality of final visualization design | 10 |
-| _Tool critique_ | _??_ |
+| Challenge description	| 20 |
+| Visualization exploration | 20 |
+| Final design | 40 |
+| Tool critique | 20 |
+| _Extra points: Creativity of proposed visualization(s)_ | 4 |
 | __Total:__ | __100__ |
 
 	
