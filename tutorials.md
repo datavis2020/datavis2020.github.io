@@ -74,11 +74,15 @@ _break_
 
 ## T3: Tools and data exploration (week 6)
 
-Explore a data set of your choice, using any of the tools discussed in class (e.g., Rawgraph, Tableau, D3)
+* Get into groups of 3 students (will be facilitated). Decide on a rough topic and search for data. 
+* Decide which topic you want to work on (create a challenge sheet like in tutorial 2?)
+* Look for data in the internet: what data do you need? 
+* Explore a data set of your choice, using any of the tools discussed in class (e.g., Rawgraph, Tableau, D3)
 
 Discuss with your neighbor or group members
-* which insights can you find? 
-* how effective are the visualization you chose? What would need to be improved ?
+* which visualizations did you use?
+* which insights did you find? 
+* how effective are the visualization you chose? What would need to be improved?
 * How effective are the tool(s) you're using? Which features and workflows are working well? Which tools and features are hard to use? Which tools would you recommend?  
 
 
