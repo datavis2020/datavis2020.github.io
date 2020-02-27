@@ -137,6 +137,15 @@ Parallel Coordinates." Eurographics (STARs). 2013.
 
 ### Video Lecture--- Techniques: Trees and Hierarchies
 
+__Lecture Slides__
+* [DataVis2020_5-Trees+Hierarchies.pdf](slides/DataVis2020_5-Trees+Hierarchies)
+
+__Recordings__
+* [Video lecture: Trees-1.mov](https://drive.google.com/open?id=121Ew3jwtafBAL-CGU5JJJh2orRfo7hix) (42:05min)
+* [Video lecture: Trees-2.mov](https://drive.google.com/open?id=1CxKpDcsSX0wrh0t8cZ6riKUm9sG001u5) (5:41min)
+
+__Further Reading__
+* Schulz, Hans-Jorg, Steffen Hadlak, and Heidrun Schumann. "The design space of implicit hierarchy visualization: A survey." IEEE transactions on visualization and computer graphics 17.4 (2010): 393-411.
 
 
 ## Week 6. Techniques: Networks and Geographic data
