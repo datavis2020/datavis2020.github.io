@@ -166,6 +166,13 @@ __Lecture Slides__
 
 ## 7. Techniques: Temporal Data
 
+__Mandatory Reading__
+Glance at this paper. No need to read everything but try to get an idea of the space-time cube metaphor that the paper is talking about and how it's used to describe data visualization.
+* Bach et al: A Descriptive Framework for Temporal Data
+Visualizations Based on Generalized Space-Time Cubes, Computer Graphics Forum, 2016: [https://hal-enac.archives-ouvertes.fr/hal-01303506/file/Bach2016spacetimecubes.pdf](https://hal-enac.archives-ouvertes.fr/hal-01303506/file/Bach2016spacetimecubes.pdf)
+
+
+
 ## 8. Advanced: Storytelling and Communication
 
 This lecture focuses on effective presentation techniques when using visualizations in e.g., infographics or presentations. Other presentation media can include videos, posters, and [datacomics](http://datacomics.net). The lecture investigates how presenting and talking with visualizations is different than using visualizations for exploring and analyzing data. Spoiler alert: "It's the audience, stupid!".
