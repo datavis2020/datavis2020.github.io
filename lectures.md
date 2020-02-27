@@ -138,7 +138,7 @@ Parallel Coordinates." Eurographics (STARs). 2013.
 ### Video Lecture--- Techniques: Trees and Hierarchies
 
 __Lecture Slides__
-* [DataVis2020_5-Trees+Hierarchies.pdf](slides/DataVis2020_5-Trees+Hierarchies)
+* [DataVis2020_5-Trees+Hierarchies.pdf](slides/DataVis2020_5-Trees+Hierarchies.pdf)
 
 __Recordings__
 * [Video lecture: Trees-1.mov](https://drive.google.com/open?id=121Ew3jwtafBAL-CGU5JJJh2orRfo7hix) (42:05min)
