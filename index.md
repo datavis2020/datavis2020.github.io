@@ -33,18 +33,19 @@ A detailed description and slides for each lecture is found [here](lectures.html
 | Jan, 13 | 1 | Foundations I: Introduction to Data Vis | --- | --- |
 | Jan, 20 | 2 | Foundations II: Visualization design | T1: Critique+Redesign | --- |
 | Jan, 27 | 3 | Foundations III: Tools for data visualizations | --- | --- |
-| Feb, 03 | 4 | Techniques I: Visualizing Statistical and Multivariate Data | T2: Challenge+Design | --- |
-| Feb, 10 | 5 | Techniques II: Trees, Networks, and Sets | --- | Assignment 1 |
+| Feb, 03 | 4 | Techniques: Visualizing Statistical and Multivariate Data | T2: Challenge+Design | --- |
+| Feb, 10 | 5 | Techniques: Multivariate data and Trees | --- | Assignment 1 |
 | Feb, 17 | - | _Week of creative learning_ | --- | --- |
-| Feb, 24 | 6 | Techniques III: Geographic and Temporal | T3: Storytelling | --- |
-| Mar, 02 | 7 | Advanced I: Storytelling and Communication |  | --- |
-| Mar, 09 | 8 | Advanced II: Evaluating visualization techniques | T4: Atelier | --- |
+| Feb, 24 | 6 | Techniques: Networks and Geography | T3: Data and Tools | --- |
+| Mar, 02 | 7 | Techniques: Temporal and Interaction |  | --- |
+| Mar, 09 | 8 | Advanced: Storytelling| T4: Storytelling | --- |
 | Mar, 16 | 9 |  _guest lecture_  | --- | --- |
-| Mar, 23 | 10 | Topic Lecture | T5: Atelier | --- |
-| Mar, 30 | 11 | __Final Presentations__ | --- | Assignment 2 |
+| Mar, 23 | 10 | Advanced: Evaluating vis  | T5: Evaluation + Open Atelier | --- |
+| Mar, 30 | 11 | Topic Lecture | --- | Assignment 2 |
 
 ## Recommended Literature
 
+- Alberto Cairo: The Truthful Art
 - Segel, Heer, Narrative Visualization, 2010, https://egerber.mech.northwestern.edu/wp-content/uploads/2015/02/Narrative_Visualization.pdf
 - Bertin, Semiology of Graphics, 1987
 - Nussbaumer: Storytelling with Data, 2017: http://www.storytellingwithdata.com
