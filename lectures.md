@@ -171,6 +171,17 @@ Glance at this paper. No need to read everything but try to get an idea of the s
 * Bach et al: A Descriptive Framework for Temporal Data
 Visualizations Based on Generalized Space-Time Cubes, Computer Graphics Forum, 2016: [https://hal-enac.archives-ouvertes.fr/hal-01303506/file/Bach2016spacetimecubes.pdf](https://hal-enac.archives-ouvertes.fr/hal-01303506/file/Bach2016spacetimecubes.pdf)
 
+### Techniques: Temporal Data
+__Lecture Slides__:
+* [DataVis2020_7-TemporalData.pdf](slides/DataVis2020_7-TemporalData.pdf)
+
+__Further reading__
+* Alberto Cairo: The Truthful Art: Chapter 8: Revealing Change
+* Aigner, Wolfgang, et al. Visualization of time-oriented data. Springer Science & Business Media, 2011.
+* Bach, Benjamin, et al. "A descriptive framework for temporal data visualizations based on generalized space‐time cubes." Computer Graphics Forum. Vol. 36. No. 6. 2017.
+* Rosenberg, Daniel, and Anthony Grafton. Cartographies of time: A history of the timeline. Princeton Architectural Press, 2013.
+* Brehmer, Matthew, et al. "Timelines revisited: A design space and considerations for expressive storytelling." IEEE transactions on visualization and computer graphics 23.9 (2016): 2151-2164.
+
 
 
 ## 8. Advanced: Storytelling and Communication
