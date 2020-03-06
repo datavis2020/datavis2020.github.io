@@ -88,24 +88,39 @@ Discuss with your neighbor or group members
 
 ## T4: Storyboarding (week 8)
 
-Create a storyboard and narrative around your visualzation projct. This tutorial should happen in groups. 
+The tutorial will start with a brief introduction into data comics and storyboarding. Your task is to create a storyboard and narrative around your visualzation projct. In this tutorial, you will work in groups. 
 
-__Analysis__
-* What is your goal and take-home message?
-* Who is your audience and why should they care?
+__Problem analysis__
+* What is your take-home message? (--> "Insight")
+* What do you want people to do? (--> "Action")
+* Who is your audience?
+* Why do they care? (--> "Curiosity")
 * What does your audience know about the topic?
-* Which facts do you need to communicate? 
 * What does your audience know about visualization and data analysis? 
 
-__Story__
-* Script a brief narration for your topic
+__Narration__
+* Write down the main points in a small story
+This structure will help:
+* Beginning
+  * what is topic?   
+  * What is my data? 
+  * why does that matter?
+* Middle
+  * Which facts do you need to communicate?  
+  * Which visualizations do I need? 
+  * How can I explain each visualization? 
+* End
+  * summary of important findings
+  * take-home message
+  * Call to action, if requires
 
 __Design__
-* Create a 
-   * storyboard, e.g., for a data comic or video, 
-   * plan the layout for an infographic, 
-   * plan design and interaction for an interactive
-   * ...
+* Create either:
+   * a storyboard, 
+   * the layout for an infographic, 
+   * design + interaction for an interactive application
+
+* walk the entire group through your findings.
 
 
 ## T5: Atelier (week 10)
