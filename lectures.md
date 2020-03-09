@@ -188,6 +188,9 @@ __Further reading__
 
 This lecture focuses on effective presentation techniques when using visualizations in e.g., infographics or presentations. Other presentation media can include videos, posters, and [datacomics](http://datacomics.net). The lecture investigates how presenting and talking with visualizations is different than using visualizations for exploring and analyzing data. Spoiler alert: "It's the audience, stupid!".
 
+__Lecture Slides:__
+* [DataVis2020_8-Storytelling](slides/DataVis2020_8-Storytelling.pdf)
+
 ## 9. Guest Lecture: TDB
 
 ## 10. Advanced: Evaluating visualization techniques
