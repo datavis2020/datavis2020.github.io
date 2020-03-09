@@ -194,13 +194,15 @@ __Lecture Slides:__
 __Further Reading:__
 * Alberto Cairo: The Functional Art
 * Riche, Hurter, Diakololpous, Carpendale: Data-Driven Storytelling
-* Bach et al.: [Narrative Patterns for Data-Driven Storytelling](pdfs/Bach2017narrative.pdf), 2017 [http://napa-cards.net](http://napa-cards.net)
+* Bach et al.: [Narrative Patterns for Data-Driven Storytelling](pdfs/Narrative_Design_Patterns__for_Data_Driven_Storytelling.pdf), 2017 [http://napa-cards.net](http://napa-cards.net)
+* Bach et al.: [The Emerging Genre of Data Comics](https://innovis.cpsc.ucalgary.ca/innovis/uploads/Publications/Publications/carpendale2017emerging.pdf), 2017
+* Bach et al.: [Design Patterns for Data Comics](https://www.pure.ed.ac.uk/ws/files/57948259/Bach2018designpatterns.pdf), 2019
 
 
-## 9. Guest Lecture: TDB
+## 9. Guest Lecture: Renaud Blanch
+
 
 ## 10. Advanced: Evaluating visualization techniques
 This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is "successful". Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes five levels to check for success _Visibility_, _Readability_, _Understandability_, _Appropriateness_, _Truthfulness_. Evaluation methods involve a set of techniques from Human-Computer Interaction (HCI) such as _guidlines_,  _quantitative evaluation_, _qualitative visualization_, _user tracking_, _samples_, and _tasks_, and _statistical analysis_. 
 
-## 11. Project presentations
-In order to give anyone an overview of the many greats works on Assignment 1, this lecture slot asks each group to present their work for about ~3min (depending on numbers of groups). Presentations and presentation quality will not be graded and this is a rather informal event to show and share your work with your fellows. Don't hestiate to offer suggestions for improvement for the final hand-in of [Assignment 2] and how your colleagues have done a specific visualization.
+## 11. Open Lecture (topic TBD)
