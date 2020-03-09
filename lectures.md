@@ -191,6 +191,12 @@ This lecture focuses on effective presentation techniques when using visualizati
 __Lecture Slides:__
 * [DataVis2020_8-Storytelling](slides/DataVis2020_8-Storytelling.pdf)
 
+__Further Reading:__
+* Alberto Cairo: The Functional Art
+* Riche, Hurter, Diakololpous, Carpendale: Data-Driven Storytelling
+* Bach et al.: [Narrative Patterns for Data-Driven Storytelling](pdfs/Bach2017narrative.pdf), 2017 [http://napa-cards.net](http://napa-cards.net)
+
+
 ## 9. Guest Lecture: TDB
 
 ## 10. Advanced: Evaluating visualization techniques
