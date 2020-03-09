@@ -195,6 +195,7 @@ __Further Reading:__
 * Alberto Cairo: The Functional Art
 * Riche, Hurter, Diakololpous, Carpendale: Data-Driven Storytelling
 * Bach et al.: [Narrative Patterns for Data-Driven Storytelling](pdfs/Narrative_Design_Patterns__for_Data_Driven_Storytelling.pdf), 2017 [http://napa-cards.net](http://napa-cards.net)
+* Chevalier et al: [Using concrete scales: A practical framework for effective visual depiction of complex measures](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.9881&rep=rep1&type=pdf), 2013 
 * Bach et al.: [The Emerging Genre of Data Comics](https://innovis.cpsc.ucalgary.ca/innovis/uploads/Publications/Publications/carpendale2017emerging.pdf), 2017
 * Bach et al.: [Design Patterns for Data Comics](https://www.pure.ed.ac.uk/ws/files/57948259/Bach2018designpatterns.pdf), 2019
 
