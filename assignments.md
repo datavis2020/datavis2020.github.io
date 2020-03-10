@@ -78,7 +78,7 @@ __Due date:__ Friday 3. April 2020, 4pm UK time.
 
 __Expected time investment:__ 15h
 
-__Description:__ Students work in groups of 3 students to analyze, design, and implement a visualization piece. This can include interactive web visualizations, data comics, or infographics (see below). 
+__Description:__ Students work in groups of 3 students to analyze, design, and implement a visualization piece. This can include interactive web visualizations, data comics, or an infographic (see below). 
 
 __1. Challenge description:__ Describe a challenge around the data (up to __500 words__, use bullet points where possible). A challenge includes: 
 - __Data:__ What is your data and where is it coming from?
