@@ -18,7 +18,7 @@ The course teaches:
 * tools for visualization design and visual data exploration,
 * methods to evaluate visualization designs (for evaluation and improvement).
 
-Course assignments will require you to __find a data set you would like to work with during the course__. Students are free to chose the data set they would like to work with, but the __data must be related to climate change or to any of the UN millennium goals__. If you are not sure about the data you chose, talk to me after the lecture. Student work around data on climate change can enter a competition for a possible public exhibition/conference in November, associated to the [COP26 in Glasgow](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-49650909). Data can come from any source as long as privacy and copy rights are respected: the internet, an external collaborator, the student's own research, another course the student is taking, personally collected data. 
+Course assignments will require you to __find a data set you would like to work with during the course__. Students are free to chose the data set they would like to work with. If you are not sure about the data you chose, talk to me after the lecture. Student work around data on climate change can enter a competition for a possible public exhibition/conference in November, associated to the [COP26 in Glasgow](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-49650909). Data can come from any source as long as privacy and copy rights are respected: the internet, an external collaborator, the student's own research, another course the student is taking, personally collected data. 
 
 ## Course Organization
 
