@@ -90,6 +90,9 @@ Discuss with your neighbor or group members
 
 The tutorial will start with a brief introduction into data comics and storyboarding. Your task is to create a storyboard and narrative around your visualzation projct. In this tutorial, you will work in groups. 
 
+__Tutorial Slides:__
+* [DataVis2020_8-Storyboarding](slides/DataVis2020_8-Storyboarding.pdf)
+
 __Problem analysis__
 * What is your take-home message? (--> "Insight")
 * What do you want people to do? (--> "Action")
