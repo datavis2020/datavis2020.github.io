@@ -164,6 +164,28 @@ __Lecture Slides__
 ### Video Lecture---Techniques: Geographic Data
 
 
+__Lecture Slides__
+* [DataVis2020_6-Geographic](slides/DataVis2020_6-Geographic.pdf)
+
+__Videos__
+* [Geography-1.m4v: Outline + Tasks (6:36)](https://drive.google.com/open?id=13vFG1dNFdFEKE_fEOtmFyUFbs757S0OC)
+* [Geography-2.m4v: Map Projections (21:11)](https://drive.google.com/open?id=1lEt6B-2fNrtVK-ILa0DwjIGdfZ32Xsnu)
+* [Geography-3.m4v: Visualizing Area Data (14:06)](https://drive.google.com/open?id=1bLKtlhxy72wLzTO5WvyzcdjSBCtsqiQu)
+* [Geography-4.m4v: Visualizing Point Data (5:08)](https://drive.google.com/open?id=1oeI11M-mnBDDZHgeJIusjWqzg8oM8tQd)
+* [Geography-5.m4v: Visualizing Trajectories (10:52)](https://drive.google.com/open?id=1cXEpw6QwR3WQHFkoDaU6ynXLDmU5qPW_)
+* [Geography-6.m4v: Visualizing Time (3:52)](https://drive.google.com/open?id=1wEm98Qj-_IZ1mdyrAf3dCf-9e2R7CBqh)
+
+
+__Further Reading__
+* Alberto Cairo: The Truthful Art: Chapter 10: Mapping Data
+* Bertin, Jacques. Semiology of graphics; diagrams networks maps. No. 04; QA90, B7.. 1983.
+* Andrienko, Gennady, et al. "Space, time and visual analytics." International journal of geographical information science 24.10 (2010): 1577-1600.
+* Andrienko, Natalia, and Gennady Andrienko. Exploratory analysis of spatial and temporal data: a systematic approach. Springer Science & Business Media, 2006.
+* Bach, Benjamin, et al. "A descriptive framework for temporal data visualizations based on generalized space‐time cubes." Computer Graphics Forum. Vol. 36. No. 6. 2017.
+* Bach, Benjamin, et al. "Ways of Visualizing Data on Curves." 2018.
+
+
+
 ## 7. Techniques: Temporal Data
 
 __Mandatory Reading__
@@ -198,6 +220,8 @@ __Further Reading:__
 * Chevalier et al: [Using concrete scales: A practical framework for effective visual depiction of complex measures](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.397.9881&rep=rep1&type=pdf), 2013 
 * Bach et al.: [The Emerging Genre of Data Comics](https://innovis.cpsc.ucalgary.ca/innovis/uploads/Publications/Publications/carpendale2017emerging.pdf), 2017
 * Bach et al.: [Design Patterns for Data Comics](https://www.pure.ed.ac.uk/ws/files/57948259/Bach2018designpatterns.pdf), 2019
+
+
 
 
 ## 9. Guest Lecture: Renaud Blanch
