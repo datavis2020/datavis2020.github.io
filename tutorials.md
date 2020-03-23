@@ -126,6 +126,6 @@ __Design__
 * walk the entire group through your findings.
 
 
-## T5: Atelier (week 10)
+## T5: Atelier (week 11)
 
 This tutorial does not have a specific scope. Students are asked to work on their visualizations for Assignment 2. A tutor will be present in each tutorial to discuss progress with students. 
