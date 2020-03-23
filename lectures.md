@@ -221,13 +221,23 @@ __Further Reading:__
 * Bach et al.: [The Emerging Genre of Data Comics](https://innovis.cpsc.ucalgary.ca/innovis/uploads/Publications/Publications/carpendale2017emerging.pdf), 2017
 * Bach et al.: [Design Patterns for Data Comics](https://www.pure.ed.ac.uk/ws/files/57948259/Bach2018designpatterns.pdf), 2019
 
-
-
-
 ## 9. Guest Lecture: Renaud Blanch
 
 
-## 10. Advanced: Evaluating visualization techniques
+## 10. Advanced: Interction for Visualization
+
+This lecture talks about the need for interaction in visualization and will present a range of interaction techniques for specific visualization related tasks: _select, explore, reconfigure, encode, abstract, filter, connect_.
+
+
+__Lecture Slides:__
+* [DataVis2020_10-Interaction](slides/DataVis2020_10-Interaction.pdf)
+
+__Further Reading:__
+* Yi, Ji Soo, Youn ah Kang, and John Stasko. "Toward a deeper understanding of the role of interaction in information visualization." IEEE transactions on visualization and computer graphics 13.6 (2007): 1224-1231.
+* Amar, Robert, James Eagan, and John Stasko. "Low-level components of analytic activity in information visualization." IEEE Symposium on Information Visualization, 2005. INFOVIS 2005.. IEEE, 2005.
+* Tamara Munzner: Manipulate View (Chapter 11)  in Tamara Munzner: Visualization Analysis & Design.
+* Tominski, Christian, et al. "Interactive lenses for visualization: An extended survey." Computer Graphics Forum. Vol. 36. No. 6. 2017. 
+
+## 11. Advanced: Evaluating visualization techniques
 This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is "successful". Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes five levels to check for success _Visibility_, _Readability_, _Understandability_, _Appropriateness_, _Truthfulness_. Evaluation methods involve a set of techniques from Human-Computer Interaction (HCI) such as _guidlines_,  _quantitative evaluation_, _qualitative visualization_, _user tracking_, _samples_, and _tasks_, and _statistical analysis_. 
 
-## 11. Open Lecture (topic TBD)
