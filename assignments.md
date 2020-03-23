@@ -111,7 +111,7 @@ Make sure you follow the instructions / exercises in tutorial 4. In your story m
 * explain any unfamilar visualizations and data-related concepts
 * summarize your main message
 
-__4. Feedback report and reflection (up to __500__ words):__ For your final design, 
+__4. Feedback report and reflection (up to __500 words__): For your final design, 
 * obtain feedback from at least 3 different persons in a structured interview. Summarize the main points.
 * Use the feedback to improve your final design and mention what you did change.
 
