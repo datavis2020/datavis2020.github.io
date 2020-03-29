@@ -16,7 +16,7 @@ Lectures are grouped into four parts:
 * [Week 6. Techniques: Networks and Geographic Data](week-6-techniques-networks-and-geographic-data)
 * [7. Techniques: Temporal Data](week-7-techniques-temporal-data)
 * [8. Advanced: Storytelling and Communication](week-8-advanced-storytelling-and-communication)
-* 9. _cancelled due to university shutdown_ 
+* [9.] _cancelled due to university shutdown_ 
 * [10. Advanced: Interction for Visualization](week-10-advanced-interction-for-visualization)
 * [11. Advanced: Evaluating visualization techniques](week-11-advanced-evaluating-visualization-techniques)
 
