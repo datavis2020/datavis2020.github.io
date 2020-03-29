@@ -126,6 +126,33 @@ __Design__
 * walk the entire group through your findings.
 
 
-## T5: Atelier (week 11)
+## T5: Evaluation
 
-This tutorial does not have a specific scope. Students are asked to work on their visualizations for Assignment 2. A tutor will be present in each tutorial to discuss progress with students. 
+__1. Visualization Critique (15min)__
+* Bring your visualizations from Assignment 1
+* Exchange your visualization and give constructive and critical feedback. Use the heuristics from the [Evaluation lecture]() as well as all the other lectures. Give ideas for improvement
+* 10min critiquing + 5min discussion
+
+__2. Checklist and evaluation of group project (30min)__
+* Create a checklist of at least 10 items that can be used as a heuristic to evaluate a visualization
+* Exchange that checklist with another group
+* Evaluate your visualization according to the checklist that you have received
+* For each item on the checklist, note down: 
+  * how much you fulfill the advice / guideline / item (1-5 Likert scale)
+  * what you could to to improve
+* If time permits, exchange checklists again
+
+__3. Plan evaluation of group work (50min)__
+* for your group project and assignment 2, create an evaluation plan & questionnaire to evaluate your visualization 
+* Create: 
+  * Write a piece of context about your work so that your study participants get the context 
+  * Define tasks to ask the users (5)
+  * Create a questionnaire that includes: 
+    * asking for background (if appropriate)
+    * asking for feedback on visualization and tasks. How you ask for feedback and what questions you ask is entirely up to you. Make sure that you have thought about: 
+      * Which information do you need to improve your project? (e.g., can people understand X?)
+      * What data do you need to get this information? (e.g., can people solve task Y, associated to feature X?)
+      * What question to ask to get these data (e.g., ask a question Z that requires people to perform Y).
+
+
+
