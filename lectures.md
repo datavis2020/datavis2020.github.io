@@ -6,8 +6,21 @@ Lectures are grouped into four parts:
 * __Advanced__, as well as
 * a __guest__ and an __open lecture__.
 
+## Overview
 
-## Week 1: Course introducion
+* [Week 1: Course Introduction](week-1-course-introduction)
+* [Week 2: Foundations I: Basic Concepts](week-2-foundations-i-basic-concepts)
+* [Week 3: Visualization Design and Color](week-3-visualization-design-and-color)
+* [Week 4: Tools & Basic Charts](week-4-tools--basic-charts)
+* [Week 5. Techniques: Multidimensional data and Trees & Hierarchies](week-5-techniques-multidimensional-data-and-trees--hierarchies)
+* [Week 6. Techniques: Networks and Geographic Data](week-6-techniques-networks-and-geographic-data)
+* [7. Techniques: Temporal Data](week-7-techniques-temporal-data)
+* [8. Advanced: Storytelling and Communication](week-8-advanced-storytelling-and-communication)
+* 9. _cancelled due to university shutdown_ 
+* [10. Advanced: Interction for Visualization](week-10-advanced-interction-for-visualization)
+* [11. Advanced: Evaluating visualization techniques](week-11-advanced-evaluating-visualization-techniques)
+
+## Week 1: Course Introduction
 Course and assignmeent overview. Introduction into basics of data visualization
 
 __Lecture Slides:__
@@ -148,7 +161,7 @@ __Further Reading__
 * Schulz, Hans-Jorg, Steffen Hadlak, and Heidrun Schumann. "The design space of implicit hierarchy visualization: A survey." IEEE transactions on visualization and computer graphics 17.4 (2010): 393-411.
 
 
-## Week 6. Techniques: Networks and Geographic data
+## Week 6. Techniques: Networks and Geographic Data
 
 ### Techniques: Networks
 
@@ -186,7 +199,7 @@ __Further Reading__
 
 
 
-## 7. Techniques: Temporal Data
+## Week 7. Techniques: Temporal Data
 
 __Mandatory Reading__
 Glance at this paper. No need to read everything but try to get an idea of the space-time cube metaphor that the paper is talking about and how it's used to describe data visualization.
@@ -206,7 +219,7 @@ __Further reading__
 
 
 
-## 8. Advanced: Storytelling and Communication
+## Week 8. Advanced: Storytelling and Communication
 
 This lecture focuses on effective presentation techniques when using visualizations in e.g., infographics or presentations. Other presentation media can include videos, posters, and [datacomics](http://datacomics.net). The lecture investigates how presenting and talking with visualizations is different than using visualizations for exploring and analyzing data. Spoiler alert: "It's the audience, stupid!".
 
@@ -221,10 +234,11 @@ __Further Reading:__
 * Bach et al.: [The Emerging Genre of Data Comics](https://innovis.cpsc.ucalgary.ca/innovis/uploads/Publications/Publications/carpendale2017emerging.pdf), 2017
 * Bach et al.: [Design Patterns for Data Comics](https://www.pure.ed.ac.uk/ws/files/57948259/Bach2018designpatterns.pdf), 2019
 
-## 9. Guest Lecture: Renaud Blanch
+## Week 9. Guest Lecture: Renaud Blanch
 
+_cancelled due to University shutdown_
 
-## 10. Advanced: Interction for Visualization
+## Week 10. Advanced: Interction for Visualization
 
 This lecture talks about the need for interaction in visualization and will present a range of interaction techniques for specific visualization related tasks: _select, explore, reconfigure, encode, abstract, filter, connect_.
 
@@ -238,6 +252,6 @@ __Further Reading:__
 * Tamara Munzner: Manipulate View (Chapter 11)  in Tamara Munzner: Visualization Analysis & Design.
 * Tominski, Christian, et al. "Interactive lenses for visualization: An extended survey." Computer Graphics Forum. Vol. 36. No. 6. 2017. 
 
-## 11. Advanced: Evaluating visualization techniques
+## Week 11. Advanced: Evaluating visualization techniques
 This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is "successful". Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes five levels to check for success _Visibility_, _Readability_, _Understandability_, _Appropriateness_, _Truthfulness_. Evaluation methods involve a set of techniques from Human-Computer Interaction (HCI) such as _guidlines_,  _quantitative evaluation_, _qualitative visualization_, _user tracking_, _samples_, and _tasks_, and _statistical analysis_. 
 
