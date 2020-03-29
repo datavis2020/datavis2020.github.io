@@ -1,8 +1,12 @@
 # Tutorials
 
-* [T5: Evaluation](#T5:-Evaluation)
+* [T1: Critique & Redesign](#t1-critique--redesign)
+* [T2: Challenge & Sketching](#t2-challenge--sketching)
+* [T3: Tools and data exploration](#t3-tools-and-data-exploration)
+* [T4: Storyboarding](#t4-storyboarding-week-8)
+* [T5: Evaluation](#t5-evaluation)
 
-## T1: Critique + Redesign (week 2)
+## T1: Critique & Redesign
 
 __Goals:__
 * Discover common flaws and mis-interpretations of visualizations
@@ -41,7 +45,7 @@ _break_
 5. Show visulizations on wall (20min)
 
 
-## [T2: Challenge + Sketching (week 4)](#tutorial-2)
+## T2: Challenge + Sketching
 
 [DataVis2020_4-Sketching](slides/DataVis2020_4-Sketching.pdf)
 
@@ -74,7 +78,7 @@ _break_
    * Elaborate on 1 visualization 
    * Discuss in class
 
-## T3: Tools and data exploration (week 6)
+## T3: Tools and data exploration
 
 * Get into groups of 3 students (will be facilitated). Decide on a rough topic and search for data. 
 * Decide which topic you want to work on (create a challenge sheet like in tutorial 2?)
@@ -88,7 +92,7 @@ Discuss with your neighbor or group members
 * How effective are the tool(s) you're using? Which features and workflows are working well? Which tools and features are hard to use? Which tools would you recommend?  
 
 
-## [T4: Storyboarding (week 8)](#tutorial-4)
+## T4: Storyboarding
 
 The tutorial will start with a brief introduction into data comics and storyboarding. Your task is to create a storyboard and narrative around your visualzation projct. In this tutorial, you will work in groups. 
 
