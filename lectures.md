@@ -4,7 +4,7 @@ Lectures are grouped into four parts:
 * __Foundations__ , 
 * __Techniques__ , 
 * __Advanced__, as well as
-* a __guest__ and an __open lecture__.
+* a __guest lecture__
 
 ## Overview
 
