@@ -1,5 +1,7 @@
 # Tutorials
 
+* [T5: Evaluation](#T5:-Evaluation)
+
 ## T1: Critique + Redesign (week 2)
 
 __Goals:__
@@ -39,7 +41,7 @@ _break_
 5. Show visulizations on wall (20min)
 
 
-## T2: Challenge + Sketching (week 4)
+## [T2: Challenge + Sketching (week 4)](#tutorial-2)
 
 [DataVis2020_4-Sketching](slides/DataVis2020_4-Sketching.pdf)
 
@@ -86,7 +88,7 @@ Discuss with your neighbor or group members
 * How effective are the tool(s) you're using? Which features and workflows are working well? Which tools and features are hard to use? Which tools would you recommend?  
 
 
-## T4: Storyboarding (week 8)
+## [T4: Storyboarding (week 8)](#tutorial-4)
 
 The tutorial will start with a brief introduction into data comics and storyboarding. Your task is to create a storyboard and narrative around your visualzation projct. In this tutorial, you will work in groups. 
 
