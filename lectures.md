@@ -253,5 +253,20 @@ __Further Reading:__
 * Tominski, Christian, et al. "Interactive lenses for visualization: An extended survey." Computer Graphics Forum. Vol. 36. No. 6. 2017. 
 
 ## Week 11. Advanced: Evaluating visualization techniques
-This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is "successful". Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes five levels to check for success _Visibility_, _Readability_, _Understandability_, _Appropriateness_, _Truthfulness_. Evaluation methods involve a set of techniques from Human-Computer Interaction (HCI) such as _guidlines_,  _quantitative evaluation_, _qualitative visualization_, _user tracking_, _samples_, and _tasks_, and _statistical analysis_. 
+This lecture covers techniques to assess if a given visualization technique (existing or your own creation) is "successful". Successful is a broad term and refers to both effectiveness and efficiency in which a user or audience are supported in their analysis or understanding of the data. The lecture proposes a simple heuristic, _Readability_, _Understandability_, Supportiveness_, _Truthfulness_, _Insightfulness_ and _Communication_. 
+
+
+__Lecture Slides:__
+* [DataVis2020_11-Evaluation](slides/DataVis2020_11-Evaluation.pdf)
+
+__Further Reading:__
+* Elmqvist, Niklas, and Ji Soo Yi. "Patterns for visualization evaluation." Information Visualization 14.3 (2015): 250-269.
+* Lam, Heidi, et al. "Empirical studies in information visualization: Seven scenarios." IEEE transactions on visualization and computer graphics 18.9 (2011): 1520-1536.
+* Lam, Heidi, et al. "Seven guiding scenarios for information visualization evaluation." (2011).
+* Isenberg, Tobias, et al. "A systematic review on the practice of evaluating visualization." IEEE Transactions on Visualization and Computer Graphics 19.12 (2013): 2818-2827.
+* Borgo, Rita, et al. "Information visualization evaluation using crowdsourcing." Computer Graphics Forum. Vol. 37. No. 3. 2018.
+* Kang, Youn-ah, and John Stasko. "Examining the use of a visual analytics system for sensemaking tasks: Case studies with domain experts." IEEE Transactions on Visualization and Computer Graphics 18.12 (2012): 2869-2878.
+
+
+
 
