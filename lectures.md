@@ -14,11 +14,11 @@ Lectures are grouped into four parts:
 * [Week 4: Tools & Basic Charts](#week-4-tools--basic-charts)
 * [Week 5. Techniques: Multidimensional data and Trees & Hierarchies](#week-5-techniques-multidimensional-data-and-trees--hierarchies)
 * [Week 6. Techniques: Networks and Geographic Data](#week-6-techniques-networks-and-geographic-data)
-* [7. Techniques: Temporal Data](#week-7-techniques-temporal-data)
-* [8. Advanced: Storytelling and Communication](#week-8-advanced-storytelling-and-communication)
-* [9.] _cancelled due to university shutdown_ 
-* [10. Advanced: Interction for Visualization](#week-10-advanced-interction-for-visualization)
-* [11. Advanced: Evaluating visualization techniques](#week-11-advanced-evaluating-visualization-techniques)
+* [Week 7. Techniques: Temporal Data](#week-7-techniques-temporal-data)
+* [Week 8. Advanced: Storytelling and Communication](#week-8-advanced-storytelling-and-communication)
+* [Week 9.] _cancelled due to university shutdown_ 
+* [Week 10. Advanced: Interction for Visualization](#week-10-advanced-interction-for-visualization)
+* [Week 11. Advanced: Evaluating visualization techniques](#week-11-advanced-evaluating-visualization-techniques)
 
 ## Week 1: Course Introduction
 Course and assignmeent overview. Introduction into basics of data visualization
