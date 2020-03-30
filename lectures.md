@@ -264,6 +264,12 @@ This lecture covers techniques to assess if a given visualization technique (exi
 __Lecture Slides:__
 * [DataVis2020_11-Evaluation](slides/DataVis2020_11-Evaluation.pdf)
 
+__Lecture recording__
+* Log into Learn
+* `Collaborate` > `Menu` (on the top left) > `recordings`. 
+* You can only watch the video online (no download possible).
+* This lecture will have 2 recordings since I had
+
 __Further Reading:__
 * Elmqvist, Niklas, and Ji Soo Yi. "Patterns for visualization evaluation." Information Visualization 14.3 (2015): 250-269.
 * Lam, Heidi, et al. "Empirical studies in information visualization: Seven scenarios." IEEE transactions on visualization and computer graphics 18.9 (2011): 1520-1536.
