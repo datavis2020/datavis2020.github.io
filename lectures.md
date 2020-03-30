@@ -246,6 +246,11 @@ This lecture talks about the need for interaction in visualization and will pres
 __Lecture Slides:__
 * [DataVis2020_10-Interaction](slides/DataVis2020_10-Interaction.pdf)
 
+__Lecture recording__
+* Log into Learn
+* `Collaborate` > `Menu` (on the top left) > `recordings`. 
+* You can only watch the video online (no download possible).
+
 __Further Reading:__
 * Yi, Ji Soo, Youn ah Kang, and John Stasko. "Toward a deeper understanding of the role of interaction in information visualization." IEEE transactions on visualization and computer graphics 13.6 (2007): 1224-1231.
 * Amar, Robert, James Eagan, and John Stasko. "Low-level components of analytic activity in information visualization." IEEE Symposium on Information Visualization, 2005. INFOVIS 2005.. IEEE, 2005.
