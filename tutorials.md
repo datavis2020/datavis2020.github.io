@@ -145,7 +145,7 @@ __2. Checklist and evaluation of group project (30min)__
 * Evaluate your visualization according to the checklist that you have received
 * For each item on the checklist, note down: 
   * how much you fulfill the advice / guideline / item (1-5 Likert scale)
-  * what you could to to improve
+  * what you could you do to improve
 * If time permits, exchange checklists again
 
 __3. Plan evaluation of group work (50min)__
