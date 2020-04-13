@@ -92,7 +92,7 @@ __2. Visualization exploration:__ explore visualization designs for your data an
 - explore at least __three different visualization designs__ with at least __two iteration__ for your data (e.g., one design per student in the group). Include rough working sketches in the final submission (sketches will not be marked but show your thoughts and the evolution of ideas. Text can be unreadable, data be incomplete. Like the sketches in tutorial 2). 
 - explain what does and work, what does not work, and how you iterated at each step. 
 
-__3. Final design:__ present a final design and explain your design rationale for everything that is not related to the visualization design itself as this has been stated in 2. just above (up to __500 words__, use bullet points where possible). This can be on of the following three formats: 
+__3. Final design:__ present a final design and explain your design rationale for everything that is not related to the visualization design itself as this has been stated in 2 (e.g., textual annotations, title, abstract, layout, explanations, etc). just above (up to __500 words__, use bullet points where possible). This can be on of the following three formats: 
 * __Infographic__
   * at least 3 different types of visualizations. These can be self-invented and creative
   * around 400 words on the infographic as text, abstract, story title, and any explanations. These words are not included in the 500 words that describe your rationale.
